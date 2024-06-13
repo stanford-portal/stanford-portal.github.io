@@ -41,6 +41,8 @@ title: affiliates and sponsors
 [Stanford Center for Blockchain Research](https://cbr.stanford.edu/)
 -->
 
+</div>
+
 # Membership
 
 Our corporate members are a vital and integral part of Portal.  Not only do
