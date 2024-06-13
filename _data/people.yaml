@@ -3,7 +3,7 @@
 - name: Sara Achour
   position: faculty
   title: Assistant Professor of Computer Science and Electrical Engineering
-  img: achour.jpg
+  img: achour.png
 
 - name: Clark Barrett
   position: faculty
@@ -51,7 +51,7 @@
 
 - name: Stephen Richardson
   position: research_scientist
-  img: richardson.jpg
+  img: richardson.png
 
 
 # Postdocs
@@ -66,11 +66,11 @@
 
 - name: Kalhan Koul
   position: phd
-  img: koul.jpg
+  img: koul.png
 
 - name: Jackson Melchert
   position: phd
-  img: melchert.jpg
+  img: melchert.png
 
 
 # Master students

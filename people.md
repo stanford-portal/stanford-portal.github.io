@@ -54,7 +54,7 @@ title: people
   <img src="img/people/{% if p.img %}{{ p.img }}{% else %}default.png{% endif %}" alt="{{ p.name }}"/>
 {% endif %}
 <br/>
-<b>{% if p.website %}<a href="{{ p.website }}">{{ p.name }}</a>{% else %}p.name{% endif %}</b>
+<b>{% if p.website %}<a href="{{ p.website }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}</b>
 <br/>
 {% if p.title %}{{ p.title }}{% else %}Research Scientist{% endif %}
 </div>
