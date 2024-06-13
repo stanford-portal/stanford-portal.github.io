@@ -60,10 +60,6 @@
 
 # PhD students
 
-- name: Aron Perez-Lopez
-  position: phd
-  start: 2022
-
 - name: Kalhan Koul
   position: phd
   img: koul.png
@@ -72,6 +68,9 @@
   position: phd
   img: melchert.png
 
+- name: Áron Ricardo Perez-Lopez
+  position: phd
+  start: 2022
 
 # Master students
 
