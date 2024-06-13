@@ -1,12 +1,45 @@
 ---
 
+- name: Sara Achour
+  position: faculty
+  title: Assistant Professor of Computer Science and Electrical Engineering
+  img: achour.jpg
+
 - name: Clark Barrett
   position: faculty
-  title: Professor (Research) of Computer Science,<br/>Director
-  img: clark.jpg
+  title: Professor (Research) of Computer Science
+  img: barrett.jpg
   website: http://theory.stanford.edu/~barrett/
-  start: 2016
 
+- name: Mark Horowitz
+  position: faculty
+  title: Fortinet Founders Chair of the Department of Electrical Engineering , Yahoo! Founders Professor in the School of Engineering and Professor of Computer Science
+  img: horowitz.jpg
+
+- name: Fredrik Kjolstad
+  position: faculty
+  title: Assistant Professor of Computer Science
+  img: kjolstad.jpeg
+
+- name: Mert Pilanci
+  position: faculty
+  title: Assistant Professor of Electrical Engineering
+  img: pilanci.jpeg
+
+- name: Priyanka Raina
+  position: faculty
+  title: Assistant Professor of Electrical Engineering
+  img: raina.jpeg
+
+- name: Ludwig Schmidt
+  position: faculty
+  title: Assistant Professor of Computer Science
+  img: schmidt.png
+
+- name: Thierry Tambe
+  poition: faculty
+  title: Assistant Professor of Electrical Engineering
+  img: tambe.jpg
 
 # Research scientists
 
@@ -15,6 +48,10 @@
   img: tsiskaridze.jpg
   website: https://sites.cs.ucsb.edu/~nestan/
   start: 2020
+
+- name: Stephen Richardson
+  position: research_scientist
+  img: richardson.jpg
 
 
 # Postdocs
@@ -27,6 +64,15 @@
   position: phd
   start: 2022
 
+- name: Kalhan Koul
+  position: phd
+  img: koul.jpg
+
+- name: Jackson Melchert
+  position: phd
+  img: melchert.jpg
+
+
 # Master students
 
 
@@ -35,7 +81,7 @@
 # Alumni
 
 - name: Caleb Donovick
-  position: phd
+  position: alumni
   website: https://profiles.stanford.edu/caleb-donovick
-  start: 2016
+
 
