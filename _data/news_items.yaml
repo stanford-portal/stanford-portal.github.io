@@ -1,0 +1,12 @@
+- title: "Nestan Tsiskaridze's paper accepted to IJCAR 2024"
+  urls: 
+    - url: "https://arxiv.org/abs/2404.16122"
+      label: "Generalized Optimization Modulo Theories"
+  excerpt: "<b> Generalized Optimization Modulo Theories </b> by Nestan Tsiskaridze, Clark Barrett and Cesare Tinelli 
+  has been accepted to the <i>12th International Joint Conference on Automated Reasoning</i> located in Nancy, France!"
+  date: "2024-05-19"
+
+- title: "Aina Niemetz and Mathias Preiner's paper accepted to CAV2024"
+  excerpt: " <b> Scalable Bit-Blasting with Abstractions </b> by Aina Niemetz, Mathias Preiner and Yoni Zohar
+   has been accepted to the <i> 36th International Conference on Computer Aided Verification </i> located in Montreal, Canada! "
+  date: "2024-05-15"

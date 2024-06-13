@@ -1,0 +1,101 @@
+references:
+- abstract: With the slowing of Moore's law, computer architects have
+    turned to domain-specific hardware specialization to continue
+    improving the performance and efficiency of computing systems.
+    However, specialization typically entails significant modifications
+    to the software stack to properly leverage the updated hardware. The
+    lack of a structured approach for updating both the compiler and the
+    accelerator in tandem has impeded many attempts to systematize this
+    procedure. We propose a new approach to enable flexible and
+    evolvable domain-specific hardware specialization based on
+    coarse-grained reconfigurable arrays (CGRAs). Our agile methodology
+    employs a combination of new programming languages and formal
+    methods to automatically generate the accelerator hardware and its
+    compiler from a single source of truth. This enables the creation of
+    design-space exploration frameworks that automatically generate
+    accelerator architectures that approach the efficiencies of
+    hand-designed accelerators, with a significantly lower design effort
+    for both hardware and compiler generation. Our current system
+    accelerates dense linear algebra applications, but is modular and
+    can be extended to support other domains. Our methodology has the
+    potential to significantly improve the productivity of
+    hardware-software engineering teams and enable quicker customization
+    and deployment of complex accelerator-rich computing systems.
+  author:
+  - family: Koul
+    given: Kalhan
+  - family: Melchert
+    given: Jackson
+  - family: Sreedhar
+    given: Kavya
+  - family: Truong
+    given: Leonard
+  - family: Nyengele
+    given: Gedeon
+  - family: Zhang
+    given: Keyi
+  - family: Liu
+    given: Qiaoyi
+  - family: Setter
+    given: Jeff
+  - family: Chen
+    given: Po-Han
+  - family: Mei
+    given: Yuchen
+  - family: Strange
+    given: Maxwell
+  - family: Daly
+    given: Ross
+  - family: Donovick
+    given: Caleb
+  - family: Carsello
+    given: Alex
+  - family: Kong
+    given: Taeyoung
+  - family: Feng
+    given: Kathleen
+  - family: Huff
+    given: Dillon
+  - family: Nayak
+    given: Ankita
+  - family: Setaluri
+    given: Rajsekhar
+  - family: Thomas
+    given: James
+  - family: Bhagdikar
+    given: Nikhil
+  - family: Durst
+    given: David
+  - family: Myers
+    given: Zachary
+  - family: Tsiskaridze
+    given: Nestan
+  - family: Richardson
+    given: Stephen
+  - family: Bahr
+    given: Rick
+  - family: Fatahalian
+    given: Kayvon
+  - family: Hanrahan
+    given: Pat
+  - family: Barrett
+    given: Clark
+  - family: Horowitz
+    given: Mark
+  - family: Torng
+    given: Christopher
+  - family: Kjolstad
+    given: Fredrik
+  - family: Raina
+    given: Priyanka
+  container-title: ACM Transactions on Embedded Computing Systems
+  doi: 10.1145/3534933
+  id: KMS+22
+  issued:
+  - year: 2022
+    month: 4
+  title: "AHA: An agile approach to the design of course-grained
+    reconfigurable accelerators and compilers"
+  title-short: AHA
+  type: article-journal
+  url: "http://theory.stanford.edu/\\~barrett/pubs/KMS+22.pdf"

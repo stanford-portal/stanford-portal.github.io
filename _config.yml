@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+baseurl: /
+title: Portal
+description: >-
+  Stanford Center for Portable Accelerated Learning
+kramdown:
+  math_engine: mathjax

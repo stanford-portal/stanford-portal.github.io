@@ -1,0 +1,63 @@
+---
+
+categories:
+- id: 1
+  name: SMT
+- id: 2
+  name: Model Checking
+
+tools:
+- name: Bitwuzla
+  category: 1
+  logo: bitwuzla.png
+  website: https://bitwuzla.github.io
+  github: https://github.com/bitwuzla/bitwuzla
+  desc-brief: SMT Solver
+  desc-long: >-
+    Bitwuzla is an award-winning Satisfiability Modulo Theories (SMT) solver
+    for the theories of fixed-size bit-vectors, floating-point arithmetic,
+    arrays and uninterpreted functions and their combinations.
+
+- name: Boolector
+  category: 1
+  logo: boolector.png
+  website: https://boolector.github.io
+  github: https://github.com/boolector/boolector
+  desc-brief: SMT Solver
+  desc-long: >-
+    Boolector is an award-winning Satisfiability Modulo Theories (SMT) solver
+    for the theories of fixed-size bit-vectors, arrays and uninterpreted
+    functions and their combinations.
+
+- name: cvc5
+  category: 1
+  logo: cvc5.png
+  website: https://cvc5.github.io
+  github: https://github.com/cvc5/cvc5
+  desc-brief: SMT Solver
+  desc-long: >-
+    cvc5 is an award-winning automatic theorem prover for Satisfiability Modulo
+    Theories (SMT) problems. cvc5 is the successor of CVC4.
+
+- name: Pono
+  category: 2
+  logo: default.png
+  website: https://github.com/upscale-project/pono
+  github: https://github.com/upscale-project/pono
+  desc-brief: SMT-Based Model Checker
+  desc-long: >-
+    Pono is a flexible and extensible SMT-based model checker that leverages
+    word-level reasoning. 'Pono' is the Hawaiian word for proper, correct, or
+    goodness.
+    <br/><br/>
+    Pono is the successor of our model checkers CoSA and CoSA2.
+
+- name: Smt-Switch
+  category: 1
+  logo: default.png
+  website: https://github.com/makaimann/smt-switch
+  github: https://github.com/makaimann/smt-switch
+  desc-brief: A Solver-Agnostic C++ API for SMT Solving
+  desc-long: >-
+    Smt-Switch provides abstract C++ classes which can be implemented by
+    different SMT solvers. Our model checker Pono is built using Smt-Switch.

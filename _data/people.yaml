@@ -1,0 +1,46 @@
+---
+
+- name: Clark Barrett
+  position: faculty
+  title: Professor (Research) of Computer Science,<br/>Director
+  img: clark.jpg
+  website: http://theory.stanford.edu/~barrett/
+  start: 2016
+
+
+# Research scientists
+
+- name: Nestan Tsiskaridze
+  position: research_scientist
+  img: tsiskaridze.jpg
+  website: https://sites.cs.ucsb.edu/~nestan/
+  start: 2020
+
+
+# Postdocs
+
+# Visiting Researchers
+
+# PhD students
+
+- name: Hanna Lachnitt
+  position: phd
+  img: lachnitt.jpg
+  website: https://profiles.stanford.edu/hanna-lachnitt
+  start: 2020
+
+- name: Aron Perez-Lopez
+  position: phd
+  start: 2022
+# Master students
+
+
+# Bachelor students
+
+# Alumni
+
+- name: Caleb Donovick
+  position: phd
+  website: https://profiles.stanford.edu/caleb-donovick
+  start: 2016
+
