@@ -34,7 +34,7 @@ img.sponsor, img.founding, span.founding img{
 
 span.founding {
   display: inline-block;
-  background-image: url("/img/favicon.png");
+//  background-image: url("/img/favicon.png");
   background-size: 24px 24px;
   background-repeat: no-repeat;
 }
@@ -90,7 +90,7 @@ span.awards {
 #content-title:before {
   content: "";
   position: absolute;
-  background-image: url("/img/arrow.svg");
+//  background-image: url("/img/arrow.svg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left top;
@@ -125,7 +125,7 @@ span.awards {
 #content-mission:before {
   content: "";
   position: absolute;
-  background-image: url("/img/symbol.svg");
+//  background-image: url("/img/symbol.svg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: right top;
