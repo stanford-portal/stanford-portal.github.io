@@ -2,10 +2,10 @@
 layout: default
 title: affiliates and sponsors
 ---
-<div id="sponsors">
+<!--<div id="sponsors">
 <div style="text-align:right;"><span class="founding" style="padding-left:30px;">Founding Sponsor</span></div>
 
-<!--<h2>Platinum Members</h2>
+<h2>Platinum Members</h2>
 <p>
 <span class="founding"><img src="/img/sponsors/amazon.png" /></span>
 </p>
@@ -41,8 +41,6 @@ title: affiliates and sponsors
 [Stanford Center for Blockchain Research](https://cbr.stanford.edu/)
 -->
 
-</div>
-
 # Membership
 
 Our corporate members are a vital and integral part of Portal.  Not only do
@@ -65,7 +63,7 @@ world and collaborate with the center on solutions.
 | Student internships and recruiting      | Yes           | Yes             |
 
 
-It is the intention of all Centaur researchers that any software developed will be released under a corporate-friendly open-source model, such as the 3-clause BSD license.
+It is the intention of all Portal researchers that any software developed will be released under a corporate-friendly open-source model, such as the 3-clause BSD license.
 
 Presentations from faculty site visits and annual retreats, and all information, data and results arising from such interactions will be shared with all members and the public.
 
@@ -79,7 +77,7 @@ funding will be shared with all program members and the general public.
 Affiliate Program members may request the additional funding be used to support
 a particular area of program research identified on the program website, or the
 program research of a named faculty member, as long as the faculty is
-identified on the program website as participating in Centaur.
+identified on the program website as participating in Portal.
 
 In either instance, the director of Portal will determine how the additional
 funding will be used in the program’s research.
