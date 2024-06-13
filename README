@@ -1,0 +1,11 @@
+This repository contains the sources for the website for the Stanford Portal center.
+
+To edit the main menu, edit _layouts/default.html.
+
+Each of the main pages can be edited by editing a markdown file in the top directory.
+
+To add or edit modular content on pages, edit the yaml files in the _data directory.
+
+Blog posts can be added in _posts
+
+_refs contains two bib files, refs.bib and vita.bib.  These are processed by _scripts/gen_refs_yml.py to generate publications.yml in _data.
