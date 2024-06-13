@@ -48,19 +48,19 @@ membership fees provide essential funding for the center's activities, but
 members also have the opportunity to pose research challenges from the real
 world and collaborate with the center on solutions.
 
-| Sponsorship level                       | Platinum      |  Gold           |
------------------------------------------ | ------------- | --------------- |
-| Membership fee per year                 | $200K         | $100K           |
-| Corporate commitment                    | 3 years       | yearly          |
-| Engagement with Faculty and Students    | High          | Medium          |
-| Feature request priority                | Top           | High            |
-| Bug fix priority                        | Top           | High            |
-| Visiting scholar positions              | Yes           | Additional fee  |
-| Annual research retreat                 | Yes           | Yes             |
-| Faculty site visits                     | Yes           | No              |
-| Zulip channel invitation                | Yes           | Yes             |
-| Research seminar invitations            | Yes           | Yes             |
-| Student internships and recruiting      | Yes           | Yes             |
+| Sponsorship Information                                 |
+----------------------------------------- | ------------- |
+| Membership fee per year                 | $250K         |
+| Expected membership term                | 3 years       |
+| Engagement with Faculty and Students    | High          |
+| Feature request priority                | Top           |
+| Bug fix priority                        | Top           |
+| Visiting scholar positions              | Yes           |
+| Annual research retreat                 | Yes           |
+| Faculty site visits                     | Yes           |
+| Slack channel invitation                | Yes           |
+| Research seminar invitations            | Yes           |
+| Student internships and recruiting      | Yes           |
 
 
 It is the intention of all Portal researchers that any software developed will be released under a corporate-friendly open-source model, such as the 3-clause BSD license.
