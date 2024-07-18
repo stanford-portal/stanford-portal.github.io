@@ -59,6 +59,13 @@
 # Visiting Researchers
 
 # PhD students
+#
+- name: James Dong
+  position: phd
+
+- name: Christophe Gyurgyik
+  position: phd
+  img: gyurgyik.jpg
 
 - name: Kalhan Koul
   position: phd
@@ -72,20 +79,17 @@
   position: phd
   start: 2022
 
-- name: Christophe Gyurgyik
+- name: Alexander Root
   position: phd
-  img: gyurgyik.jpg
-
-- name: James Dong
-  position: phd
+  img: root.jpg
 
 - name: Shiv Sundram
   position: phd
   img: sundram.jpeg
 
-- name: Alexander Root
+- name: Bobby Yan
   position: phd
-  img: root.jpg
+  img: yan.webp
 
 # Master students
 
