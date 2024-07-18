@@ -72,6 +72,21 @@
   position: phd
   start: 2022
 
+- name: Christophe Gyurgyik
+  position: phd
+  img: gyurgyik.jpg
+
+- name: James Dong
+  position: phd
+
+- name: Shiv Sundram
+  position: phd
+  img: sundram.jpeg
+
+- name: Alexander Root
+  position: phd
+  img: root.jpg
+
 # Master students
 
 
