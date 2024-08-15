@@ -51,13 +51,11 @@ world and collaborate with the center on solutions.
 | Sponsorship Information                                 |
 ----------------------------------------- | ------------- |
 | Membership fee per year                 | $250K         |
-| Expected membership term                | 3 years       |
+| Membership term                         | Annual        |
 | Engagement with Faculty and Students    | High          |
 | Feature request priority                | Top           |
 | Bug fix priority                        | Top           |
-| Visiting scholar positions              | Yes           |
 | Annual research retreat                 | Yes           |
-| Faculty site visits                     | Yes           |
 | Slack channel invitation                | Yes           |
 | Research seminar invitations            | Yes           |
 | Student internships and recruiting      | Yes           |
