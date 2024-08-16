@@ -1,7 +1,9 @@
 ---
 layout: default
 title: home
-mission: The mission of the Stanford Center for Portable Accelerated Learning is to accelerate the state of the art in tools and techniques for hardware acceleration of learning applications.
-whitepaper: http://portal.stanford.edu/whitepaper.pdf
+mission: The mission of the Stanford Portal Center is to address the challenge of developing software for machine learning that is portable across different accelerators, thus enabling efficient development of both software and hardware.
+whitepaper: portal-whitepaper-short.pdf
 ---
+
+See our <a href="{{ page.whitepaper }}">whitepaper</a> for more information.
 

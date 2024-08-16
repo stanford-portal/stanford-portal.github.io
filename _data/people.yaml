@@ -59,7 +59,10 @@
 # Visiting Researchers
 
 # PhD students
-#
+
+- name: Vishal Canumalla
+  position: phd
+
 - name: James Dong
   position: phd
 
@@ -86,6 +89,9 @@
 - name: Shiv Sundram
   position: phd
   img: sundram.jpeg
+
+- name: Yu-Neng Wang
+  position: phd
 
 - name: Bobby Yan
   position: phd
