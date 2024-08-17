@@ -70,13 +70,17 @@
   position: phd
   img: gyurgyik.jpg
 
-- name: Kalhan Koul
+- name: Kartik Prabhu
   position: phd
-  img: koul.png
+  img: kartikprabhu.png
 
-- name: Jackson Melchert
+- name: Jeffrey Yu
   position: phd
-  img: melchert.png
+  img: jeffreyyu.png
+
+- name: Allen Pan
+  position: phd
+  img: allenpan.png
 
 - name: Áron Ricardo Perez-Lopez
   position: phd
