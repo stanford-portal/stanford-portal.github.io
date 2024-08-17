@@ -52,7 +52,7 @@ world and collaborate with the center on solutions.
 ----------------------------------------- | ------------- |
 | Membership fee per year                 | $250K         |
 | Membership term                         | Annual        |
-| Engagement with Faculty and Students    | High          |
+| Engagement with faculty and students    | High          |
 | Feature request priority                | Top           |
 | Bug fix priority                        | Top           |
 | Annual research retreat                 | Yes           |
