@@ -74,10 +74,6 @@
   position: phd
   img: kartikprabhu.jpg
 
-- name: Jeffrey Yu
-  position: phd
-  img: jeffreyyu.jpg
-
 - name: Allen Pan
   position: phd
 
@@ -89,6 +85,9 @@
   position: phd
   img: root.jpg
 
+- name: Ritvik Sharma
+  img: sharma.jpeg
+
 - name: Shiv Sundram
   position: phd
   img: sundram.jpeg
@@ -99,6 +98,10 @@
 - name: Bobby Yan
   position: phd
   img: yan.webp
+
+- name: Jeffrey Yu
+  position: phd
+  img: jeffreyyu.jpg
 
 # Master students
 
