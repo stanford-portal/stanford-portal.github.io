@@ -70,12 +70,12 @@
   position: phd
   img: gyurgyik.jpg
 
+- name: Allen Pan
+  position: phd
+
 - name: Kartik Prabhu
   position: phd
   img: kartikprabhu.jpg
-
-- name: Allen Pan
-  position: phd
 
 - name: Áron Ricardo Perez-Lopez
   position: phd
@@ -86,6 +86,7 @@
   img: root.jpg
 
 - name: Ritvik Sharma
+  position: phd
   img: sharma.jpeg
 
 - name: Shiv Sundram
