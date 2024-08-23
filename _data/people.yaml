@@ -62,6 +62,7 @@
 
 - name: Vishal Canumalla
   position: phd
+  img: canumalla.jpg
 
 - name: James Dong
   position: phd
@@ -69,6 +70,14 @@
 - name: Christophe Gyurgyik
   position: phd
   img: gyurgyik.jpg
+
+- name: Christophe Gyurgyik
+  position: phd
+  img: gyurgyik.jpg
+
+- name: Yasmine Omri
+  position: phd
+  img: omri.jpeg
 
 - name: Allen Pan
   position: phd
