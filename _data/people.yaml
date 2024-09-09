@@ -5,6 +5,12 @@
   title: Assistant Professor of Computer Science and Electrical Engineering
   img: achour.png
 
+- name: Richard Bahr 
+  position: faculty
+  title: Adjunct Professor of Electrical Engineering 
+  img: bahr.jpg
+  website: https://aha.stanford.edu/people/richard-bahr
+
 - name: Clark Barrett
   position: faculty
   title: Professor (Research) of Computer Science
@@ -20,6 +26,7 @@
   position: faculty
   title: Assistant Professor of Computer Science
   img: kjolstad.jpeg
+  website: http://fredrikbk.com
 
 - name: Mert Pilanci
   position: faculty
@@ -71,6 +78,7 @@
   position: phd
   img: gyurgyik.jpg
 
+<<<<<<< HEAD
 - name: Christophe Gyurgyik
   position: phd
   img: gyurgyik.jpg
@@ -79,6 +87,8 @@
   position: phd
   img: jang.jpg
 
+=======
+>>>>>>> 2cc375e857f54ee2db6231b4dff47fd9945b21dd
 - name: Yasmine Omri
   position: phd
   img: omri.jpeg
