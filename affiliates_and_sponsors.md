@@ -2,6 +2,15 @@
 layout: default
 title: affiliates and sponsors
 ---
+
+<h2>Industry Affiliates and Sponsors</h2>
+<p>
+<span class="founding"><img src="/img/sponsors/amd-logo.svg" /></span>
+<span class="founding"><img src="/img/sponsors/aws-logo.svg" /></span>
+<span class="founding"><img src="/img/sponsors/google-logo.svg" /></span>
+<span class="founding"><img src="/img/sponsors/nvidia-logo.svg" /></span>
+</p>
+
 <!--<div id="sponsors">
 <div style="text-align:right;"><span class="founding" style="padding-left:30px;">Founding Sponsor</span></div>
 
@@ -59,7 +68,6 @@ world and collaborate with the center on solutions.
 | Slack channel invitation                | Yes           |
 | Research seminar invitations            | Yes           |
 | Student internships and recruiting      | Yes           |
-
 
 It is the intention of all Portal researchers that any software developed will be released under a corporate-friendly open-source model, such as the 3-clause BSD license.
 
