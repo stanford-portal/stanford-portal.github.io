@@ -9,6 +9,11 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
+| December 18 | | |
+| December 11 | | |
+| December 4 | LLVM-aided code translation | Abdulrahman Mahmoud (MBZUAI) |
+| November 27 | | |
+| November 20 | | |
 | **November 13** | **Quantization in Hardware** | **Thierry Tambe** |
 | November 6 | Introduction to AWS Trainium architecture and ISA | Serina Tan (AWS) and Jonathan Henson (AWS) |
 | October 30 | Current State of HW Quantization and Number Formats | Thierry Tambe |
