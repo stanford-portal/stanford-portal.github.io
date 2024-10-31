@@ -9,19 +9,19 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
-| December 18 | | |
-| December 11 | | |
-| December 4 | LLVM-aided code translation | Abdulrahman Mahmoud (MBZUAI) |
-| November 27 | | |
-| November 20 | | |
-| **November 13** | **Quantization in Hardware** | **Thierry Tambe** |
-| November 6 | Introduction to AWS Trainium architecture and ISA | Serina Tan (AWS) and Jonathan Henson (AWS) |
-| October 30 | Current State of HW Quantization and Number Formats | Thierry Tambe |
-| October 23 | Chiplets | Mark Horowitz |
-| October 16 | AMD AIEngine | Steven Neuendorffer (AMD) and Sam Bayliss (AMD) |
-| October 9 | PyTorch Compiler for Internal Hardware | Jeffrey Yu |
-| October 2 | Current State of ML Compilers | Christophe Gyurgyik |
-| September 25 | Round-Table Elevator Pitches | |
-| September 18 | Topic Planning | |
-| September 11 | Introductions | |
+| Dec 18 | | |
+| Dec 11 | | |
+| Dec 4 | LLVM-aided code translation | Abdulrahman Mahmoud (MBZUAI) |
+| Nov 27 | | |
+| Nov 20 | | |
+| **Nov 13** | **Quantization in Hardware** | **Thierry Tambe** |
+| Nov 6 | Introduction to AWS Trainium architecture and ISA | Serina Tan (AWS) and Jonathan Henson (AWS) |
+| Oct 30 | Current State of HW Quantization and Number Formats | Thierry Tambe |
+| Oct 23 | Chiplets | Mark Horowitz |
+| Oct 16 | AMD AIEngine | Steven Neuendorffer (AMD) and Sam Bayliss (AMD) |
+| Oct 9 | PyTorch Compiler for Internal Hardware | Jeffrey Yu |
+| Oct 2 | Current State of ML Compilers | Christophe Gyurgyik |
+| Sep 25 | Round-Table Elevator Pitches | |
+| Sep 18 | Topic Planning | |
+| Sep 11 | Introductions | |
 
