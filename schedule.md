@@ -10,10 +10,10 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
 | **November 13** | **Quantization in Hardware** | **Thierry Tambe** |
-| November 6 | Introduction to AWS Trainium architecture and ISA | Serina Tan and Jonathan Henson |
+| November 6 | Introduction to AWS Trainium architecture and ISA | Serina Tan (AWS) and Jonathan Henson (AWS) |
 | October 30 | Current State of HW Quantization and Number Formats | Thierry Tambe |
 | October 23 | Chiplets | Mark Horowitz |
-| October 16 | AMD AIEngine | Steven Neuendorffer and Sam Bayliss |
+| October 16 | AMD AIEngine | Steven Neuendorffer (AMD) and Sam Bayliss (AMD) |
 | October 9 | PyTorch Compiler for Internal Hardware | Jeffrey Yu |
 | October 2 | Current State of ML Compilers | Christophe Gyurgyik |
 | September 25 | Round-Table Elevator Pitches | |
