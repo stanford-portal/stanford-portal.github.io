@@ -15,7 +15,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | Nov 27 | | |
 | Nov 20 | | |
 | **Nov 13** | **Quantization in Hardware** | **Thierry Tambe** |
-| Nov 6 | Introduction to AWS Trainium architecture and ISA | Serina Tan (AWS) and Jonathan Henson (AWS) |
+| Nov 6 | Introduction to AWS Trainium architecture and ISA | Ron Diamant (AWS), Serina Tan (AWS), and Jonathan Henson (AWS) |
 | Oct 30 | Current State of HW Quantization and Number Formats | Thierry Tambe |
 | Oct 23 | Chiplets | Mark Horowitz |
 | Oct 16 | AMD AIEngine | Steven Neuendorffer (AMD) and Sam Bayliss (AMD) |
