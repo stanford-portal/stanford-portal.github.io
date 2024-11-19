@@ -11,7 +11,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | ---- | ----- | ------- |
 | Dec 18 | | |
 | Dec 11 | | |
-| **Dec 4** | **LLM-aided code translation | Abdulrahman Mahmoud (MBZUAI)** |
+| **Dec 4** | **LLM-aided code translation** | **Abdulrahman Mahmoud (MBZUAI)** |
 | Nov 27 | Thanksgiving Break (canceled) | |
 | Nov 20 | | |
 | **Nov 13** | **Quantization in Hardware** | **Thierry Tambe** |
