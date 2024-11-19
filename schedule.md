@@ -9,7 +9,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
-| Dec 18 | | |
+| Dec 18 | Quantization Algorithms | Mert Pilanci |
 | Dec 11 | | |
 | **Dec 4** | **LLM-aided code translation** | **Abdulrahman Mahmoud (MBZUAI)** |
 | Nov 27 | Thanksgiving Break (canceled) | |
