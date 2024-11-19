@@ -13,7 +13,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | Dec 11 | | |
 | **Dec 4** | **LLM-aided code translation** | **Abdulrahman Mahmoud (MBZUAI)** |
 | Nov 27 | Thanksgiving Break (canceled) | |
-| Nov 20 | | |
+| Nov 20 | Portable ML Compiler Design Discussion | Priyanka Raina and Fred Kjolstad |  |
 | **Nov 13** | **Quantization in Hardware** | **Thierry Tambe** |
 | Nov 6 | Introduction to AWS Trainium architecture and ISA | Ron Diamant (AWS), Serina Tan (AWS), and Jonathan Henson (AWS) |
 | Oct 30 | Current State of HW Quantization and Number Formats | Thierry Tambe |
