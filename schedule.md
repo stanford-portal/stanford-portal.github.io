@@ -10,7 +10,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
 | Dec 18 | Quantization Algorithms | Mert Pilanci |
-| Dec 11 | | |
+| Dec 11 | AMD AIEngine Software | Joseph Melber (AMD) |
 | **Dec 4** | **LLM-aided code translation** | **Abdulrahman Mahmoud (MBZUAI)** |
 | Nov 27 | Thanksgiving Break (canceled) | |
 | Nov 20 | Portable ML Compiler Design Discussion | Priyanka Raina and Fred Kjolstad |  |
