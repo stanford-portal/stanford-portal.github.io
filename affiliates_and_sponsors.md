@@ -6,6 +6,7 @@ title: affiliates and sponsors
 <h2>Industry Affiliates and Sponsors</h2>
 <p>
 <span class="founding"><img src="/img/sponsors/amd-logo.svg" /></span>
+<span class="founding"><img src="/img/sponsors/apple-logo.svg" /></span>
 <span class="founding"><img src="/img/sponsors/aws-logo.svg" /></span>
 <span class="founding"><img src="/img/sponsors/google-logo.svg" /></span>
 <span class="founding"><img src="/img/sponsors/nvidia-logo.svg" /></span>
