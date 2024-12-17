@@ -7,6 +7,12 @@ The Portal Center organizes a monthly seminar that is open to industry affiliate
 
 In the following schedules external affiliate and sponsor talks are listed in bold text and internal talks in normal text.
 
+# Winter 2025
+
+To be announced.
+
+# Fall 2024
+
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
 | Dec 18 | Canceled (winter break) | |
