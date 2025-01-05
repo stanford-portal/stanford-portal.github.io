@@ -19,7 +19,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | **Feb 5** | **TBA** | |
 | Jan 29 | TBA ||
 | Jan 22 | TBA ||
-| Jan 15 | TBA ||
+| Jan 15 | Apple-Portal Discussion | Eric Lee |
 | **Jan 8** | **Mapping Sparse Applications to Accelerated Computing Systems** | **Olivia Hsu** |
 
 # Fall 2024
