@@ -10,15 +10,15 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
 | Mar 26 | TBA ||
-| Mar 19 | TBA ||
+| Mar 19 | HLS and VLSI Design | Thierry Tambe, Priyanka Raina, and Mark Horowitz |
 | Mar 12 | TBA ||
-| **Mar 5** | **TBA** ||
+| **Mar 5** | **Quantization Algorithms** | **Mert Pilanci**|
 | Feb 26 | TBA ||
-| Feb 19 | TBA ||
+| Feb 19 | Collection IR | Fred Kjolstad |
 | Feb 12 | TBA ||
 | **Feb 5** | **TBA** | |
-| Jan 29 | TBA ||
-| Jan 22 | TBA ||
+| Jan 29 | Summer Goals | Discussion |
+| Jan 22 | Who is working on what? | Discussion |
 | Jan 15 | Apple-Portal Discussion | Eric Lee |
 | **Jan 8** | **Mapping Sparse Applications to Accelerated Computing Systems** | **Olivia Hsu** |
 
