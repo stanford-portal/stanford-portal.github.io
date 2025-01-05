@@ -7,15 +7,25 @@ The Portal Center organizes a monthly seminar that is open to industry affiliate
 
 In the following schedules external affiliate and sponsor talks are listed in bold text and internal talks in normal text.
 
-# Winter 2025
-
-To be announced.
+| Date | Topic | Speaker |
+| ---- | ----- | ------- |
+| Mar 26 | TBA ||
+| Mar 19 | TBA ||
+| Mar 12 | TBA ||
+| **Mar 5** | **TBA** ||
+| Feb 26 | TBA ||
+| Feb 19 | TBA ||
+| Feb 12 | TBA ||
+| **Feb 5** | **TBA** | |
+| Jan 29 | TBA ||
+| Jan 22 | TBA ||
+| Jan 15 | TBA ||
+| **Jan 8** | **Mapping Sparse Applications to Accelerated Computing Systems** | **Olivia Hsu** |
 
 # Fall 2024
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
-| Dec 18 | Canceled (winter break) | |
 | Dec 11 | AMD AIEngine Software | Joseph Melber (AMD) |
 | **Dec 4** | **LLM-aided code translation** | **Abdulrahman Mahmoud (MBZUAI)** |
 | Nov 27 | Thanksgiving Break (canceled) | |
