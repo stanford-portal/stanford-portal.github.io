@@ -9,13 +9,13 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
-| Mar 26 | TBA ||
-| Mar 19 | HLS and VLSI Design | Thierry Tambe, Priyanka Raina, and Mark Horowitz |
+| Mar 26 | Spring Break (no seminar) ||
+| Mar 19 | Verification | Clark Barrett |
 | Mar 12 | TBA ||
 | **Mar 5** | **Quantization Algorithms** | **Mert Pilanci**|
-| Feb 26 | TBA ||
+| Feb 26 | HLS and VLSI Design | Thierry Tambe, Priyanka Raina, and Mark Horowitz |
 | Feb 19 | Collection IR | Fred Kjolstad |
-| Feb 12 | TBA ||
+| Feb 12 | Voyager: A High-Level Synthesis Based Framework for Design Space Exploration and Generation of Neural Network Accelerators | Kartik Prabhu |
 | **Feb 5** | **TBA** | |
 | Jan 29 | Summer Goals | Discussion |
 | Jan 22 | Who is working on what? | Discussion |
@@ -28,7 +28,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | ---- | ----- | ------- |
 | Dec 11 | AMD AIEngine Software | Joseph Melber (AMD) |
 | **Dec 4** | **LLM-aided code translation** | **Abdulrahman Mahmoud (MBZUAI)** |
-| Nov 27 | Thanksgiving Break (canceled) | |
+| Nov 27 | Thanksgiving Break (no seminar) | |
 | Nov 20 | Portable ML Compiler Design Discussion | Priyanka Raina and Fred Kjolstad |  |
 | **Nov 13** | **Quantization in Hardware** | **Thierry Tambe** |
 | Nov 6 | Introduction to AWS Trainium architecture and ISA | Ron Diamant (AWS), Serina Tan (AWS), and Jonathan Henson (AWS) |
