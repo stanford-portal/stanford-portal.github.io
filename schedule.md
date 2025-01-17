@@ -16,7 +16,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | Feb 26 | HLS and VLSI Design | Thierry Tambe, Priyanka Raina, and Mark Horowitz |
 | Feb 19 | Collection IR | Fred Kjolstad |
 | Feb 12 | Voyager: A High-Level Synthesis Based Framework for Design Space Exploration and Generation of Neural Network Accelerators | Kartik Prabhu |
-| **Feb 5** | **TBA** | |
+| **Feb 5** | **ML Research Overview** | Ludwig Schmidt |
 | Jan 29 | Summer Goals | Discussion |
 | Jan 22 | Who is working on what? | Discussion |
 | Jan 15 | Apple-Portal Discussion | Eric Lee |
