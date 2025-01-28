@@ -11,13 +11,13 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | ---- | ----- | ------- |
 | Mar 26 | Spring Break (no seminar) ||
 | Mar 19 | Verification | Clark Barrett |
-| Mar 12 | TBA ||
+| Mar 12 | Summer Goals | Discussion |
 | **Mar 5** | **Quantization Algorithms** | **Mert Pilanci**|
 | Feb 26 | HLS and VLSI Design | Thierry Tambe, Priyanka Raina, and Mark Horowitz |
 | Feb 19 | Collection IR | Fred Kjolstad |
 | Feb 12 | Voyager: A High-Level Synthesis Based Framework for Design Space Exploration and Generation of Neural Network Accelerators | Kartik Prabhu |
 | **Feb 5** | **ML Research Overview** | Ludwig Schmidt |
-| Jan 29 | Summer Goals | Discussion |
+| Jan 29 | Compiling Recurrences over Dense and Sparse Arrays | Shiv Sundram |
 | Jan 22 | Who is working on what? | Discussion |
 | Jan 15 | Apple-Portal Discussion | Eric Lee |
 | **Jan 8** | **Mapping Sparse Applications to Accelerated Computing Systems** | **Olivia Hsu** |
