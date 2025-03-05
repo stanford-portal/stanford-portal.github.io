@@ -121,7 +121,37 @@
   position: phd
   img: jeffreyyu.jpg
 
+- name: Rohan Yadav
+  position: phd
+
+- name: Michael Oduoza
+  position: phd
+
+- name: Bo-Wun Cheng
+  position: phd
+
+- name: Rubens Lacouture
+  position: phd
+
+- name: Pu (Luke) Yi
+  position: phd
+
+- name: Chae Lee
+  position: phd
+
+- name: Devrath Iyer
+  position: phd
+
 # Master students
+
+- name: Yi Sun
+  position: master
+
+- name: Christian Kubicka
+  position: master
+
+- name: Sai Gautham RAvipati
+  position: master
 
 - name: Parth Shroff
   position: master
