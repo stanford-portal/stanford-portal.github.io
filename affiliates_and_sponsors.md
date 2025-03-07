@@ -10,6 +10,7 @@ title: affiliates and sponsors
 <span class="founding"><img src="/img/sponsors/aws-logo.svg" /></span>
 <span class="founding"><img src="/img/sponsors/google-logo.svg" /></span>
 <span class="founding"><img src="/img/sponsors/nvidia-logo.svg" /></span>
+<span class="founding"><img src="/img/sponsors/qualcomm-logo.svg" /></span>
 </p>
 
 <!--<div id="sponsors">
@@ -17,30 +18,22 @@ title: affiliates and sponsors
 
 <h2>Platinum Members</h2>
 <p>
-<span class="founding"><img src="/img/sponsors/amazon.png" /></span>
 </p>
 
 <h2>Gold Members</h2>
 <p>
-<img class="sponsor" src="/img/sponsors/ethereum.png" />
 </p>
 
 <h2>Silver Members</h2>
 <p>
-<span class="founding"><img src="/img/sponsors/certora.png" /></span>
-<span class="founding"><img src="/img/sponsors/adacore.png" /></span>
 </p>
 
 <h2>Government Sponsors</h2>
 <p>
-<img class="sponsor" src="/img/sponsors/bsf.png" />
-<img class="sponsor" src="/img/sponsors/darpa.png" />
-<img class="sponsor" src="/img/sponsors/nsf.png" />
 </p>
 
 <h2>Additional Sponsors</h2>
 <p>
-<span class="founding"><img class="sponsor" src="/img/sponsors/vmware.png" /></span>
 </p>
 
 </div>
