@@ -124,29 +124,38 @@
 
 - name: Rohan Yadav
   position: phd
+  img: rohanyadav.jpg
+  website: https://rohany.github.io/
 
 - name: Michael Oduoza
   position: phd
 
 - name: Bo-Wun Cheng
   position: phd
+  img: bowuncheng.jpg
+  website: https://www.linkedin.com/in/bo-wun-cheng
 
 - name: Rubens Lacouture
   position: phd
 
-- name: Pu (Luke) Yi
+- name: Luke Yi
   position: phd
+  img: lukeyi.jpg
+  website: https://y553546436.github.io/ 
 
 - name: Chae Lee
   position: phd
 
 - name: Devrath Iyer
   position: phd
+  img: devrathiyer.jpg
+  website: https://web.stanford.edu/~deviyer/
 
 # Master students
 
 - name: Yi Sun
   position: master
+  img: yisun.jpg
 
 - name: Christian Kubicka
   position: master
