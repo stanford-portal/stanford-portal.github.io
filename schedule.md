@@ -9,6 +9,13 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
+| **April 2** | **Deegen: A Meta-compiler Approach for High Performance VMs at Low Engineering Cost Abstract** | **Haoran Xu** |
+
+
+# Winter 2025
+
+| Date | Topic | Speaker |
+| ---- | ----- | ------- |
 | Mar 26 | Spring Break (no seminar) ||
 | Mar 19 | Verification | Clark Barrett |
 | Mar 12 | Summer Goals | Discussion |
