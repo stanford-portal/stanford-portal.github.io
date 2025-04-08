@@ -13,7 +13,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | June 4 | |  |
 | May 28 | |  |
 | May 21 | |  |
-| May 14 | | Sai Gautham Ravipati  |
+| May 14 | The Lego compiler | Sai Gautham Ravipati  |
 | May 7 | |  |
 | April 30 | |  |
 | April 23 | |  |
