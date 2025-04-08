@@ -9,8 +9,14 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
-| | |  |
-| | |  |
+| June 11 | |  |
+| June 4 | |  |
+| May 28 | |  |
+| May 21 | |  |
+| May 14 | | Sai Gautham Ravipati  |
+| May 7 | |  |
+| April 30 | |  |
+| April 23 | |  |
 | April 16 | | Po-Chun Chien |
 | April 9 | Ember: a Compiler for Efficient Embedding Operations on Decoupled Access-Execute Architectures | Marco Siracusa |
 | **April 2** | **Deegen: A Meta-compiler Approach for High Performance VMs at Low Engineering Cost Abstract** | **Haoran Xu** |
