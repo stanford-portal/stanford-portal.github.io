@@ -10,11 +10,11 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
 | June 11 | |  |
-| June 4 | |  |
+| **June 4** | **Designing High-Performance and Energy-Efficient AI Accelerators** | **Kartik Prabhu** |
 | May 28 | |  |
 | May 21 | Zircon: Heterogeneous CGRA for Accelerating Machine Learning and Image Processing Applications | Yuchen Mei |
-| May 14 | The Lego compiler | Sai Gautham Ravipati  |
-| May 7 | |  |
+| May 14 | LEGO: A compiler for tiling and mapping sparse tensor algebra expressions to heterogenous hardware stacks | Sai Gautham Ravipati |
+| **May 7** | |  |
 | April 30 | |  |
 | April 23 | |  |
 | April 16 | | Po-Chun Chien |
