@@ -11,11 +11,11 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | ---- | ----- | ------- |
 | June 11 | |  |
 | **June 4** | **Designing High-Performance and Energy-Efficient AI Accelerators** | **Kartik Prabhu** |
-| May 28 | |  |
+| May 28 | LEGO: A compiler for tiling and mapping sparse tensor algebra expressions to heterogenous hardware stacks | Sai Gautham Ravipati |
 | May 21 | Zircon: Heterogeneous CGRA for Accelerating Machine Learning and Image Processing Applications | Yuchen Mei |
-| May 14 | LEGO: A compiler for tiling and mapping sparse tensor algebra expressions to heterogenous hardware stacks | Sai Gautham Ravipati |
+| May 14 |  | |
 | **May 7** | |  |
-| April 30 | |  |
+| April 30 | Sphinx: Accelerating Edge LLM Using 4-bit NormalFloat and On-the-Fly Outlier Handling | Jeffrey Yu |
 | April 23 | |  |
 | April 16 | CPV: A Circuit-Based Program Verifier | Po-Chun Chien |
 | April 9 | Ember: a Compiler for Efficient Embedding Operations on Decoupled Access-Execute Architectures | Marco Siracusa |
