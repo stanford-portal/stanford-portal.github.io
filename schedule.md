@@ -14,9 +14,9 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | May 28 | LEGO: A compiler for tiling and mapping sparse tensor algebra expressions to heterogenous hardware stacks | Sai Gautham Ravipati |
 | May 21 | Zircon: Heterogeneous CGRA for Accelerating Machine Learning and Image Processing Applications | Yuchen Mei |
 | May 14 | LLM Inference Accelerator with Variable Block-Level Mixed-Format Support | Wonsuk Jang |
-| **May 7** | |  |
+| **May 7** | Efficient Sparsity for Deep Learning | Trevor Gale (Google DeepMind) |
 | April 30 | Sphinx: Accelerating Edge LLM Using 4-bit NormalFloat and On-the-Fly Outlier Handling | Jeffrey Yu |
-| April 23 | Compressing LLMs for Efficient Inference: Recent Advances in Low-Rank Methods, Quantization, and Structured Sparsity | Rajarshi Saha |
+| April 23 | Compressing LLMs for Efficient Inference: Recent Advances in Low-Rank Methods, Quantization, and Structured Sparsity | Rajarshi Saha (AWS) |
 | April 16 | CPV: A Circuit-Based Program Verifier | Po-Chun Chien |
 | April 9 | Ember: a Compiler for Efficient Embedding Operations on Decoupled Access-Execute Architectures | Marco Siracusa |
 | **April 2** | **Deegen: A Meta-compiler Approach for High Performance VMs at Low Engineering Cost Abstract** | **Haoran Xu** |
