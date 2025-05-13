@@ -13,7 +13,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | **June 4** | **Designing High-Performance and Energy-Efficient AI Accelerators** | **Kartik Prabhu** |
 | May 28 | LEGO: A compiler for tiling and mapping sparse tensor algebra expressions to heterogenous hardware stacks | Sai Gautham Ravipati |
 | May 21 | Zircon: Heterogeneous CGRA for Accelerating Machine Learning and Image Processing Applications | Yuchen Mei |
-| May 14 | LLM Inference Accelerator with Variable Block-Level Mixed-Format Support | Wonsuk Jang |
+| May 14 | µAgent: Energy-Efficient Edge SoC for LLM-based Agentic AI Reasoning | Wonsuk Jang and Christian Kubicka |
 | **May 7** | **Efficient Sparsity for Deep Learning** | **Trevor Gale (Google DeepMind)** |
 | April 30 | Sphinx: Accelerating Edge LLM Using 4-bit NormalFloat and On-the-Fly Outlier Handling | Jeffrey Yu |
 | April 23 | Compressing LLMs for Efficient Inference: Recent Advances in Low-Rank Methods, Quantization, and Structured Sparsity | Rajarshi Saha (AWS) |
