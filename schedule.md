@@ -9,7 +9,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
-| **June 4** | **Task-based tensor computations on modern gpus** | **Rohan Yadav** |
+| **June 4** | **Task-based tensor computations on modern GPUs** | **Rohan Yadav** |
 | May 28 | LEGO: A compiler for tiling and mapping sparse tensor algebra expressions to heterogenous hardware stacks | Sai Gautham Ravipati |
 | May 21 | Zircon: Heterogeneous CGRA for Accelerating Machine Learning and Image Processing Applications | Yuchen Mei |
 | May 14 | µAgent: Energy-Efficient Edge SoC for LLM-based Agentic AI Reasoning | Wonsuk Jang and Christian Kubicka |
