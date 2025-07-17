@@ -7,10 +7,13 @@ The Portal Center organizes a monthly seminar that is open to industry affiliate
 
 In the following schedules external affiliate and sponsor talks are listed in bold text and internal talks in normal text.
 
-We will have a reduced ~biweekly summer schedule.
+We will have a reduced ~biweekly summer schedule. Non-affiliate summer meetings will be discussions and will not have a zoom option to facilitate interaction. The Portal retreat will be held on August 27-28 and will replace the August and September affiliates meetings.
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
+| August&nbsp;13 | Abstract Machine Discussion (no zoom) | Mark Horowitz |
+| August&nbsp;6 | Quantization Discussion (no zoom) | Thierry Tambe |
+| July&nbsp;23 | High-Level IR Discussion (no zoom) | Fredrik Kjolstad |
 | **July&nbsp;9** | **Voyager: A High-Level Synthesis Based Framework for Design Space Exploration and Generation of Neural Network Accelerators** | **Kartik Prabhu** |
 
 # Spring 2025
