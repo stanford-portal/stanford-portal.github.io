@@ -4,6 +4,8 @@ title: events
 ---
 ## Upcoming
 
+- Portal Annual Meeting, August 27-28, Oceano Hotel, Half Moon Bay, 2025. Agenda coming soon.
+
 <!--
 ## Past
 - [CENTAUR Annual Meeting](event_centaur_2023.html), August 17, 2023.
