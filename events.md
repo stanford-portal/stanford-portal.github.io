@@ -4,7 +4,7 @@ title: events
 ---
 ## Upcoming
 
-- Portal Annual Meeting, August 27-28, Oceano Hotel, Half Moon Bay, 2025. Agenda coming soon.
+- [Portal Annual Retreat](event_portal_2023.html), August 27-28, Oceano Hotel, Half Moon Bay, 2025.
 
 <!--
 ## Past
@@ -13,3 +13,5 @@ title: events
 - [Certora Prover 2 Day Workshop](https://www.certora.com/events/certora-prover-2-day-workshop/), August 29-30, 2022, [[video](https://www.youtube.com/playlist?list=PLKtu7wuOMP9Wp_O8kylKbtFYgM8HVTGIA)]
 - [CENTAUR Annual Meeting](event_centaur_2022.html), July 13, 2022.
 -->
+
+## Monthly Seminars
