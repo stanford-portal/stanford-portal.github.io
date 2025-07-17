@@ -4,7 +4,7 @@ title: events
 ---
 ## Upcoming
 
-- [Portal Annual Retreat](event_portal_2023.html), August 27-28, Oceano Hotel, Half Moon Bay, 2025.
+- [Portal Annual Retreat](event_portal_2025.html), August 27-28, Oceano Hotel, Half Moon Bay, 2025.
 
 <!--
 ## Past
