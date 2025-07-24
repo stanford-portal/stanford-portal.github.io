@@ -77,7 +77,7 @@ title: people
 <br/>
 <b>{% if p.website %}<a href="{{ p.website }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}</b>
 <br/>
-Postdoctoral Researcher
+{% if p.title %}{{ p.title }}{% else %}Postdoctoral Researcher{% endif %}
 </div>
 {% endfor %}
 </div>
