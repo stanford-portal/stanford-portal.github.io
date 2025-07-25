@@ -63,6 +63,8 @@ world and collaborate with the center on solutions.
 | Research seminar invitations            | Yes           |
 | Student internships and recruiting      | Yes           |
 
+**Discounted enrollments for members available in select professional and technical courses from the [Stanford Engineering Center for Global & Online Education](https://enterpriseeducation.stanford.edu/our-programs/curated). Portal members can contact julieh1@stanford.edu for more info.**
+
 It is the intention of all Portal researchers that any software developed will be released under a corporate-friendly open-source model, such as the 3-clause BSD license.
 
 Presentations from faculty site visits and annual retreats, and all information, data and results arising from such interactions will be shared with all members and the public.
