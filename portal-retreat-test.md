@@ -37,9 +37,9 @@ Wednesday, August 27- Thursday, August 28, 2025
 <td></td>
 </tr>
 <tr>
-<td>9:40am-10:00am</td>
-<td>Coffee break</td>
-<td></td>
+<td>5:15-6:15pm</td>
+<td>Poster Session (outside)</td>
+<td>Portal Researchers and Students</td>
 <td></td>
 </tr>
 
