@@ -42,7 +42,12 @@ Wednesday, August 27- Thursday, August 28, 2025
 <td>Portal Researchers and Students</td>
 <td></td>
 </tr>
-
+<tr>
+<td>6:15-7:45pm</td>
+<td>Dinner</td>
+<td>All</td>
+<td></td>
+</tr>
 <tr>
 <td colspan="4" style="text-align:center;font-weight:bold;">
 Session II
