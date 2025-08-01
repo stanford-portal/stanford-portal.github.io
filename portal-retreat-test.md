@@ -32,9 +32,9 @@ Wednesday, August 27- Thursday, August 28, 2025
 </tr>
 <tr>
 <td>9:20am-9:40am</td>
-<td><a href="https://www.youtube.com/watch?v=kog1aqxHu28&list=PLqYw1C4YGfr3KQtHU6ch4gIHHwThDIZRK&index=2">Scalable assurance via formal and verifiable security contracts</a></td>
-<td>Caroline Trippel</td>
-<td>Faculty</td>
+<td>Lightning Talks</td>
+<td>Portal Researchers and Students</td>
+<td></td>
 </tr>
 <tr>
 <td>9:40am-10:00am</td>
