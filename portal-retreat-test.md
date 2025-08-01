@@ -5,7 +5,7 @@ title: events
 
 <h1>Portal Annual Retreat 2025</h1>
 <a href=https://oceanohalfmoonbay.com/>Oceano Hotel, Half Moon Bay</a><br/>
-August 27-28
+Wednesday, August 27- Thursday, August 28, 2025
 
 <h2>Wednesday July 13</h2>
 <table>
@@ -17,11 +17,12 @@ August 27-28
 </tr>
 
 <tr>
-<td>8:50am-9:00am</td>
-<td>Opening Remarks</td>
-<td>Clark Barrett</td>
-<td>Director of Centaur</td>
+<td>4:00-4:15pm</td>
+<td>Welcome- Day 1 Introduction</td>
+<td>Fred Kjolstad</td>
+<td>Faculty</td>
 </tr>
+
 
 <tr>
 <td colspan="4" style="text-align:center;font-weight:bold;">
