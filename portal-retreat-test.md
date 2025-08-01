@@ -4,19 +4,14 @@ title: events
 ---
 
 <h1>Portal Annual Retreat 2025</h1>
-<h4>Paul Brest Hall<br/>
-555 Salvatierra Walk<br/>
-Stanford, CA 94305</h4>
-<br/>
-<!--a href="https://www.eventbrite.com/e/ai-safety-centaur-and-data-science-affiliates-programs-registration-325036020487" class="btn">
-Register
-</a-->
+<a href=https://oceanohalfmoonbay.com/>Oceano Hotel, Half Moon Bay</a><br/>
+August 27-28
 
 <h2>Wednesday July 13</h2>
 <table>
 <tr>
-<td style="width:20%;">8:30am-8:50am</td>
-<td style="width:32">Breakfast and Registration</td>
+<td style="width:20%;">3:00pm</td>
+<td style="width:32">Hotel check-in starts</td>
 <td style="width:18%;"></td>
 <td style="width:20%;"></td>
 </tr>
