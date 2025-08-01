@@ -25,14 +25,9 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 
 <tr>
-<td colspan="4" style="text-align:center;font-weight:bold;">
-Session I
-</td>
-</tr>
-<tr>
-<td>9:00am-9:20am</td>
-<td><a href="https://www.youtube.com/watch?v=HLlQvi4k_zM&list=PLqYw1C4YGfr3KQtHU6ch4gIHHwThDIZRK&index=1">On the surprising usefulness of proofs</a></td>
-<td>Clark Barrett</td>
+<td>4:15-4:30pm</td>
+<td>Research Overview</td>
+<td>Fred Kjolstad</td>
 <td>Faculty</td>
 </tr>
 <tr>
