@@ -18,7 +18,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td>4:00-4:15pm</td>
-<td>Welcome - Day 1 Introduction</td>
+<td>Welcome - Introduction</td>
 <td>Fred Kjolstad</td>
 <td>Faculty</td>
 </tr>
