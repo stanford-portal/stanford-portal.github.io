@@ -78,7 +78,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 <td>9:30-10:00am</td>
 <td>Data-Structure Polymorphic Compilation of the Unified IR </td>
 <td>Olivia Hsu</td>
-<td>PhD Student</td>
+<td>Postdoc, Incoming Professor CMU</td>
 </tr>
 
 <tr>
