@@ -96,10 +96,11 @@ Wednesday, August 27- Thursday, August 28, 2025
 </tr>
 
 <tr>
-<td>9:00-10:30am</td>
-<td>High-Level Unified IR</td>
-<td>Fred Kjolstad, Olivia Hsu, AJ Root</td>
-<td>Faculty, PhD Students</td>
+<td>11:00-11:45am</td>
+<td>Keynote: Compiler 2.0: Building Compilers in the Era of Machine Learning
+</td>
+<td>Saman Amarasinghe</td>
+<td>Professor, Department of Electrical Engineering and Computer Science (EECS), Principal Investigator, Computer Science and Artificial Intelligence Laboratory (CSAIL), Massachusetts Institute of Technology</td>
 </tr>
 
 </table>
