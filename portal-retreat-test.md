@@ -122,7 +122,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 </tr>
 
 <tr>
-<td>1:15-1:45pm</td>
+<td>1:15-1:40pm</td>
 <td>LEGO: A compiler for tiling and orchestrating sparse tensor algebra expressions </td>
 <td>Gautham Ravipati</td>
 <td>PhD Student</td>
@@ -132,6 +132,13 @@ Wednesday, August 27- Thursday, August 28, 2025
 <td>1:40-2:05pm</td>
 <td>Voyager: An HLS-Based Framework for Design-Space Exploration and Generation of DNN Accelerators  </td>
 <td>Kartik Prabhu</td>
+<td>PhD Student</td>
+</tr>
+
+<tr>
+<td>2:05-2:30pm</td>
+<td>Zircon: Heterogeneous CGRA for Accelerating Machine Learning, Image Processing, and Sparse Tensor Algebra Applications  </td>
+<td>Michael Oduoza</td>
 <td>PhD Student</td>
 </tr>
 
