@@ -75,6 +75,13 @@ Wednesday, August 27- Thursday, August 28, 2025
 </tr>
 
 <tr>
+<td>9:30-10:00am</td>
+<td>Data-Structure Polymorphic Compilation of the Unified IR </td>
+<td>Olivia Hsu</td>
+<td>PhD Student</td>
+</tr>
+
+<tr>
 <td>10:30-11:00am</td>
 <td><b>Break</b> and guest room check-out </td>
 <td></td>
