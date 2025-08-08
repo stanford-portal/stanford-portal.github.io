@@ -103,4 +103,9 @@ Wednesday, August 27- Thursday, August 28, 2025
 <td>Professor, Department of Electrical Engineering and Computer Science (EECS), Massachusetts Institute of Technology</td>
 </tr>
 
+<tr>
+<td>11:45am-12:15pm</td>
+<td>Validation</td>
+</tr>
+
 </table>
