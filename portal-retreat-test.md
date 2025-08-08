@@ -115,4 +115,10 @@ Wednesday, August 27- Thursday, August 28, 2025
 <td></td>
 </tr>
 
+<tr>
+<td>1:15-2:30pm</td>
+<td>Abstract Machines and Hardware Generators
+</td>
+</tr>
+
 </table>
