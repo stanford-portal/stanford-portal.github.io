@@ -65,6 +65,11 @@ Wednesday, August 27- Thursday, August 28, 2025
 <tr>
 <td>9:00-10:30am</td>
 <td>High-Level Unified IR</td>
+</tr>
+
+<tr>
+<td>9:00-10:30am</td>
+<td>High-Level Unified IR</td>
 <td>Fred Kjolstad, Olivia Hsu, AJ Root</td>
 <td>Faculty, PhD Students</td>
 </tr>
