@@ -108,4 +108,11 @@ Wednesday, August 27- Thursday, August 28, 2025
 <td>Validation</td>
 </tr>
 
+<tr>
+<td>12:15-1:15pm</td>
+<td>Lunch</td>
+<td>All</td>
+<td></td>
+</tr>
+
 </table>
