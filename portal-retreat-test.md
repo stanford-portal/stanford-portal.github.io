@@ -63,10 +63,10 @@ Wednesday, August 27- Thursday, August 28, 2025
 </tr>
 
 <tr>
-<td>10:30-11:00am</td>
+<td>9:00-10:30am</td>
 <td>High-Level Unified IR</td>
-<td>Fred Kjolstad, Olivia Hsu, and AJ Root</td>
-<td></td>
+<td>Fred Kjolstad, Olivia Hsu, AJ Root</td>
+<td>Faculty, PhD Students</td>
 </tr>
 
 <tr>
@@ -74,6 +74,13 @@ Wednesday, August 27- Thursday, August 28, 2025
 <td><b>Break</b> and guest room check-out </td>
 <td></td>
 <td></td>
+</tr>
+
+<tr>
+<td>9:00-10:30am</td>
+<td>High-Level Unified IR</td>
+<td>Fred Kjolstad, Olivia Hsu, AJ Root</td>
+<td>Faculty, PhD Students</td>
 </tr>
 
 </table>
