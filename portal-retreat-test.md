@@ -128,5 +128,11 @@ Wednesday, August 27- Thursday, August 28, 2025
 <td>PhD Student</td>
 </tr>
 
+<tr>
+<td>1:40-2:05pm</td>
+<td>Voyager: An HLS-Based Framework for Design-Space Exploration and Generation of DNN Accelerators  </td>
+<td>Kartik Prabhu</td>
+<td>PhD Student</td>
+</tr>
 
 </table>
