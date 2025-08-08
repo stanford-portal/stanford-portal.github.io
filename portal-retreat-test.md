@@ -121,4 +121,12 @@ Wednesday, August 27- Thursday, August 28, 2025
 </td>
 </tr>
 
+<tr>
+<td>1:15-1:45pm</td>
+<td>LEGO: A compiler for tiling and orchestrating sparse tensor algebra expressions </td>
+<td>Gautham Ravipati</td>
+<td>PhD Student</td>
+</tr>
+
+
 </table>
