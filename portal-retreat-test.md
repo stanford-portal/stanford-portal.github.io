@@ -82,6 +82,13 @@ Wednesday, August 27- Thursday, August 28, 2025
 </tr>
 
 <tr>
+<td>10:00-10:30am</td>
+<td>Compiling Set Expressions onto Acceleration Trees </td>
+<td>AJ Root</td>
+<td>PhD Student</td>
+</tr>
+
+<tr>
 <td>10:30-11:00am</td>
 <td><b>Break</b> and guest room check-out </td>
 <td></td>
