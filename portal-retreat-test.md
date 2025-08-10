@@ -64,7 +64,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td>9:00-10:30am</td>
-<td><b>High-Level Unified IR</td>
+<td><b>High-Level Unified IR<b></td>
 </tr>
 
 <tr>
