@@ -149,4 +149,11 @@ Wednesday, August 27- Thursday, August 28, 2025
 <td>PhD Student</td>
 </tr>
 
+<tr>
+<td>2:30-3:00pm</td>
+<td><b>Afternoon Break</td>
+<td></td>
+<td></td>
+</tr>
+
 </table>
