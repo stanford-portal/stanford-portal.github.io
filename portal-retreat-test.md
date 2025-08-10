@@ -182,4 +182,18 @@ Wednesday, August 27- Thursday, August 28, 2025
 <td>PhD Student</td>
 </tr>
 
+<tr>
+<td>4:15-4:45pm</td>
+<td>Explicit Feedback Session</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>4:15-4:45pm</td>
+<td>Wrap up and closing thoughts</td>
+<td>Mark Horowitz</td>
+<td>Faculty</td>
+</tr>
+
 </table>
