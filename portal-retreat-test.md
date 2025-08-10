@@ -109,6 +109,13 @@ Wednesday, August 27- Thursday, August 28, 2025
 </tr>
 
 <tr>
+<td>11:45am-12:15pm</td>
+<td>Verification and Synthesis of Spatial Implications for Bounding Volume Hierarchy Traversals </td>
+<td>Clark Barrett</td>
+<td>Faculty</td>
+</tr>
+
+<tr>
 <td>12:15-1:15pm</td>
 <td>Lunch</td>
 <td>All</td>
