@@ -64,7 +64,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td>9:00-10:30am</td>
-<td>High-Level Unified IR</td>
+<td><b>High-Level Unified IR</td>
 </tr>
 
 <tr>
@@ -90,7 +90,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td>10:30-11:00am</td>
-<td><b>Break</b> and guest room check-out </td>
+<td>Break</b> and guest room check-out </td>
 <td></td>
 <td></td>
 </tr>
@@ -105,7 +105,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td>11:45am-12:15pm</td>
-<td>Validation</td>
+<td><b>Validation</td>
 </tr>
 
 <tr>
@@ -124,7 +124,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td>1:15-2:30pm</td>
-<td>Abstract Machines and Hardware Generators
+<td><b>Abstract Machines and Hardware Generators
 </td>
 </tr>
 
