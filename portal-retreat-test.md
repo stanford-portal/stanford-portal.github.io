@@ -156,4 +156,9 @@ Wednesday, August 27- Thursday, August 28, 2025
 <td></td>
 </tr>
 
+<tr>
+<td>3:00-4:15pm</td>
+<td><b>Emerging Data Representations</td>
+</tr>
+
 </table>
