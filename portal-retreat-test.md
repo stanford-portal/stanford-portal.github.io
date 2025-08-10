@@ -161,4 +161,25 @@ Wednesday, August 27- Thursday, August 28, 2025
 <td><b>Emerging Data Representations</td>
 </tr>
 
+<tr>
+<td>3:00-3:25pm</td>
+<td>A 7nm SoC for LLM-based AI Reasoning featuring Variable Block Size Formatbook Quantization</td>
+<td>Christian Kubicka</td>
+<td>PhD Student</td>
+</tr>
+
+<tr>
+<td>3:25-3:50pm</td>
+<td>Vision-Language Alignment from Compressed Image Representation using 2D Gaussian Splatting</td>
+<td>Yasmine Omri</td>
+<td>PhD Student</td>
+</tr>
+
+<tr>
+<td>3:50-4:15pm</td>
+<td>Exchangeability in Neural Network Architectures and its Application to Dynamic Pruning </td>
+<td>Luke Yi</td>
+<td>PhD Student</td>
+</tr>
+
 </table>
