@@ -151,7 +151,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td>2:30-3:00pm</td>
-<td><b>Afternoon Break</td>
+<td>Afternoon Break</td>
 <td></td>
 <td></td>
 </tr>
