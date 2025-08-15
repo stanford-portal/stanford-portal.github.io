@@ -64,7 +64,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td>9:00-10:30am</td>
-<td><b>Session: High-Level Unified IR<b></td>
+<td><b>Session: High-Level Unified IR</b></td>
 </tr>
 
 <tr>
@@ -104,8 +104,8 @@ Wednesday, August 27- Thursday, August 28, 2025
 </tr>
 
 <tr>
-<td>11:45am-12:15pm</td>
-<td><b>Session: Validation</td>
+<td><b>11:45am-12:15pm</b></td>
+<td><b>Session: Validation</b></td>
 </tr>
 
 <tr>
@@ -123,8 +123,8 @@ Wednesday, August 27- Thursday, August 28, 2025
 </tr>
 
 <tr>
-<td>1:15-2:30pm</td>
-<td><b>Session: Abstract Machines and Hardware Generators
+<td><b>1:15-2:30pm</b>b></td>
+<td><b>Session: Abstract Machines and Hardware Generators</b>
 </td>
 </tr>
 
