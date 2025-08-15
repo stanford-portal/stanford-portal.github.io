@@ -19,7 +19,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 <tr>
 <td>4:00-4:15pm</td>
 <td>Welcome - Introduction</td>
-<td>Fred Kjolstad</td>
+<td>Mark Horowitz</td>
 <td>Faculty</td>
 </tr>
 
@@ -64,7 +64,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td>9:00-10:30am</td>
-<td><b>High-Level Unified IR<b></td>
+<td><b>Session: High-Level Unified IR<b></td>
 </tr>
 
 <tr>
@@ -105,7 +105,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td>11:45am-12:15pm</td>
-<td><b>Validation</td>
+<td><b>Session: Validation</td>
 </tr>
 
 <tr>
@@ -124,7 +124,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td>1:15-2:30pm</td>
-<td><b>Abstract Machines and Hardware Generators
+<td><b>Session: Abstract Machines and Hardware Generators
 </td>
 </tr>
 
@@ -158,7 +158,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td>3:00-4:15pm</td>
-<td><b>Emerging Data Representations</td>
+<td><b>Session: Emerging Data Representations</td>
 </tr>
 
 <tr>
