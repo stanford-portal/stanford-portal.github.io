@@ -123,7 +123,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 </tr>
 
 <tr>
-<td><b>1:15-2:30pm</b>b></td>
+<td><b>1:15-2:30pm</b></td>
 <td><b>Session: Abstract Machines and Hardware Generators</b>
 </td>
 </tr>
