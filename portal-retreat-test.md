@@ -165,7 +165,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 <td>3:00-3:25pm</td>
 <td>A 7nm SoC for LLM-based AI Reasoning featuring Variable Block Size Formatbook Quantization</td>
 <td>Christian Kubicka</td>
-<td>PhD Student</td>
+<td>MS Student</td>
 </tr>
 
 <tr>
