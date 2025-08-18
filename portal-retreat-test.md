@@ -39,7 +39,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td>5:15-6:15pm</td>
-<td>Poster Session (outside)</td>
+<td>Poster Session & Reception (outside)</td>
 <td>Portal Researchers and Students</td>
 <td></td>
 </tr>
