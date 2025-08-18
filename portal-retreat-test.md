@@ -56,47 +56,47 @@ Wednesday, August 27- Thursday, August 28, 2025
 <table>
 
 <tr>
-<td style="width:20%;">8:00am</td>
+<td style="width:20%;">7:45am</td>
 <td style="width:32">Breakfast</td>
 <td style="width:18%;"></td>
 <td style="width:20%;"></td>
 </tr>
 
 <tr>
-<td><b>9:00-10:30am</b></td>
+<td><b>8:30-10:00am</b></td>
 <td><b>Session: High-Level Unified IR</b></td>
 </tr>
 
 <tr>
-<td>9:00-9:30am</td>
+<td>8:30-9:00am</td>
 <td>Introduction to the Unified IR</td>
 <td>Fred Kjolstad</td>
 <td>Faculty</td>
 </tr>
 
 <tr>
-<td>9:30-10:00am</td>
+<td>9:00-9:30am</td>
 <td>Data-Structure Polymorphic Compilation of the Unified IR </td>
 <td>Olivia Hsu</td>
 <td>Postdoc, Incoming Professor CMU</td>
 </tr>
 
 <tr>
-<td>10:00-10:30am</td>
+<td>9:30-10:00am</td>
 <td>Compiling Set Expressions onto Acceleration Trees </td>
 <td>AJ Root</td>
 <td>PhD Student</td>
 </tr>
 
 <tr>
-<td>10:30-11:00am</td>
-<td>Break</b> and guest room check-out </td>
+<td>10:00-10:30am</td>
+<td>Break and guest room check-out </td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>11:00-11:45am</td>
+<td>10:30-11:30am</td>
 <td>Keynote: Compiler 2.0: Building Compilers in the Era of Machine Learning
 </td>
 <td>Saman Amarasinghe</td>
@@ -109,14 +109,14 @@ Wednesday, August 27- Thursday, August 28, 2025
 </tr>
 
 <tr>
-<td>11:45am-12:15pm</td>
+<td>11:30-12:00pm</td>
 <td>Verification and Synthesis of Spatial Implications for Bounding Volume Hierarchy Traversals </td>
 <td>Clark Barrett</td>
 <td>Faculty</td>
 </tr>
 
 <tr>
-<td>12:15-1:15pm</td>
+<td>12:00-1:15pm</td>
 <td>Lunch</td>
 <td>All</td>
 <td></td>
