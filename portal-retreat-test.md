@@ -104,7 +104,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 </tr>
 
 <tr>
-<td><b>11:45am-12:15pm</b></td>
+<td><b>11:30am-12:00pm</b></td>
 <td><b>Session: Validation</b></td>
 </tr>
 
