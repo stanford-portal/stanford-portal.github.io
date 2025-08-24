@@ -54,7 +54,6 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <h2>Thursday, August 28</h2>
 <table>
-
 <tr>
 <td style="width:20%;">7:45am</td>
 <td style="width:32">Breakfast</td>
