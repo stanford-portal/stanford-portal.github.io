@@ -63,19 +63,19 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td><b>8:30-10:00am</b></td>
-<td><b>Session: High-Level Unified IR</b></td>
+<td><b>Session: High-Level Unified Collection IR</b></td>
 </tr>
 
 <tr>
 <td>8:30-9:00am</td>
-<td>Introduction to the Unified IR</td>
+<td>Introduction to the Unified Collection IR</td>
 <td>Fred Kjolstad</td>
 <td>Faculty</td>
 </tr>
 
 <tr>
 <td>9:00-9:30am</td>
-<td>Data-Structure Polymorphic Compilation of the Unified IR </td>
+<td>Portable Compilation of the Unified Collection IR </td>
 <td>Olivia Hsu</td>
 <td>Postdoc, Incoming Professor CMU</td>
 </tr>
