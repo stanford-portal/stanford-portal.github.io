@@ -75,7 +75,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td>9:00-9:30am</td>
-<td>Portable Compilation of the Unified Collection IR </td>
+<td>Portable Compilation of the Collection IR </td>
 <td>Olivia Hsu</td>
 <td>Postdoc, Incoming Professor CMU</td>
 </tr>
