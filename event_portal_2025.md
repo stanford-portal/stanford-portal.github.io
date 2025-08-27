@@ -11,7 +11,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 <table>
 <tr>
 <td style="width:20%;">3:00pm</td>
-<td style="width:32">Hotel check-in</td>
+<td style="width:32%">Hotel check-in</td>
 <td style="width:18%;"></td>
 <td style="width:20%;"></td>
 </tr>
@@ -56,7 +56,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 <table>
 <tr>
 <td style="width:20%;">7:45am</td>
-<td style="width:32">Breakfast</td>
+<td style="width:32%">Breakfast</td>
 <td style="width:18%;"></td>
 <td style="width:20%;"></td>
 </tr>
