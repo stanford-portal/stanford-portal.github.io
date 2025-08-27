@@ -31,7 +31,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 </tr>
 
 <tr>
-<td>9:20am-9:40am</td>
+<td>4:30-5:15pm</td>
 <td>Lightning Talks</td>
 <td>Portal Researchers and Students</td>
 <td></td>
