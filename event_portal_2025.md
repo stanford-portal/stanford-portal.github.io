@@ -188,7 +188,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 </tr>
 
 <tr>
-<td>4:15-4:45pm</td>
+<td>4:45-5:00pm</td>
 <td>Wrap up and closing thoughts</td>
 <td>Mark Horowitz</td>
 <td>Faculty</td>
