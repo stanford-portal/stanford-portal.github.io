@@ -11,7 +11,6 @@ We will have a reduced ~biweekly summer schedule. Non-affiliate summer meetings 
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
-| September&nbsp;10 | Fall quarter planning | |
 | **August 27-28** | **Yearly Portal Retreat** | |
 | August&nbsp;13 | Abstract Machine Discussion (no zoom) | Mark Horowitz |
 | August&nbsp;6 | Quantization Discussion (no zoom) | Thierry Tambe |
