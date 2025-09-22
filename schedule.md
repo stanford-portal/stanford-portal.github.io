@@ -9,6 +9,27 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 
 We will have a reduced ~biweekly summer schedule. Non-affiliate summer meetings will be discussions and will not have a zoom option to facilitate interaction. The Portal retreat will be held on August 27-28 and will replace the August and September affiliates meetings.
 
+# Fall 2025
+
+| Date | Topic | Speaker |
+| ---- | ----- | ------- |
+| December&nbsp;17 | TBA | |
+| December&nbsp;10 | TBA | |
+| **December&nbsp;3** | **TBA** | |
+| November&nbsp;26 | TBA | |
+| November&nbsp;19 | TBA | |
+| November&nbsp;12 | TBA | |
+| **November&nbsp;5** | **TBA** | |
+| October&nbsp;29 | TBA | |
+| October&nbsp;22 | TBA | |
+| October&nbsp;15 | TBA | |
+| October&nbsp;8 | TBA | |
+| **October 1** | **TBA** | |
+| September&nbsp;24 | Planning Meeting |  |
+
+
+# Summer 2025
+
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
 | **August 27-28** | **Yearly Portal Retreat** | |
