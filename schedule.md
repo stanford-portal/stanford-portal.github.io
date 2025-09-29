@@ -24,7 +24,7 @@ We will have a reduced ~biweekly summer schedule. Non-affiliate summer meetings 
 | October&nbsp;22 | TBA | |
 | October&nbsp;15 | TBA | |
 | October&nbsp;8 | TBA | |
-| **October 1** | **TBA** | |
+| **October 1** | **Towards Automated GPU Kernel Generation** | **Simon Guo (Stanford)** |
 | September&nbsp;24 | Planning Meeting |  |
 
 
