@@ -16,7 +16,7 @@ We will have a reduced ~biweekly summer schedule. Non-affiliate summer meetings 
 | December&nbsp;17 | TBA | |
 | December&nbsp;10 | Compiling Recurrences to Systolic Architectures | Shiv Sundram |
 | **December&nbsp;3** | **The Sphinx Framework** | **Jeffrey Yu** |
-| November&nbsp;26 | Thanksgiving - no talk | |
+| ~November&nbsp;26~ | ~No Talk (thanksgiving)~ | |
 | November&nbsp;19 | TBA | |
 | November&nbsp;12 | Accelerating Database Processing with FPGAs | Stephen Neuendorffer (AMD) |
 | **November&nbsp;5** | **TBA** | |
