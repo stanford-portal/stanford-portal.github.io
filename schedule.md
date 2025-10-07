@@ -16,7 +16,7 @@ We will have a reduced ~biweekly summer schedule. Non-affiliate summer meetings 
 | December&nbsp;17 | TBA | |
 | December&nbsp;10 | TBA | |
 | **December&nbsp;3** | **The Sphinx Framework** | **Jeffrey Yu** |
-| November&nbsp;26 | TBA | |
+| November&nbsp;26 | Thanksgiving - no talk | |
 | November&nbsp;19 | TBA | |
 | November&nbsp;12 | TBA | |
 | **November&nbsp;5** | **TBA** | |
