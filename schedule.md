@@ -5,9 +5,7 @@ title: schedule
 
 The Portal Center organizes a monthly seminar that is open to industry affiliates and sponsors, typically on the first Wednesday of each month. If your company is an affiliate or sponsor and you wish to get access to the monthly meetings, then email Julie Hitchcock (julieh1@stanford.edu). The Portal center also runs a weekly internal seminar. Both internal and affiliate seminars are on Wednesdays at 12noon in the CoDa Building (389 Jane Stanford Way) Room E401.
 
-In the following schedules external affiliate and sponsor talks are listed in bold text and internal talks in normal text.
-
-We will have a reduced ~biweekly summer schedule. Non-affiliate summer meetings will be discussions and will not have a zoom option to facilitate interaction. The Portal retreat will be held on August 27-28 and will replace the August and September affiliates meetings.
+In the following schedules external affiliate and sponsor talks are listed in bold text and internal talks with normal font.
 
 # Fall 2025
 
