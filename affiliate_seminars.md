@@ -9,7 +9,7 @@ title: events
 | ---- | ----- | ------- |
 | October 1, 2025 | Towards Automated GPU Kernel Generation | Simon Guo, PhD Student, Stanford University |
 | July 9, 2025 | Voyager: A High-Level Synthesis Based Framework for Design Space Exploration and Generation of Neural Network Accelerators | Kartik Prabhu, PhD Student, Stanford University |
-| June 4, 2025 | Task-based tensor computations on modern GPUs | Rohan Yadav, PhD Student, Stanford University |
+| June 4, 2025 | Task-based tensor computations on modern GPUs<a href="https://drive.google.com/file/d/1sHl0-OBUYzcFSRc2rfZCXNBzFFZeHxMI/view?usp=sharing</a> <br/> | Rohan Yadav, PhD Student, Stanford University |
 | May 7, 2025 | Efficient Sparsity for Deep Learning | Trevor Gale, Google DeepMind |
 | April 2, 2025 | Deegen: A Meta-compiler Approach for High Performance VMs at Low Engineering Cost Abstract | Haoran Xu, PhD Student, Stanford University |
 | March 5, 2025 | Quantization Algorithms | Prof. Mert Pilanci, Stanford University |
