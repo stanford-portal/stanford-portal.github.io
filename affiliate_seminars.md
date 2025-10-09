@@ -16,4 +16,4 @@ title: events
 | February 5, 2025 | ML Research Overview | Prof. Ludwig Schmidt, Stanford University |
 | January 8, 2025 | <a href="https://drive.google.com/file/d/1UF6tibTpYDsBtLEOEupT6y4R5hAJRSuU/view?usp=drive_link/">Mapping Sparse Applications to Accelerated Computing Systems</a> <br/> | Olivia Hsu, Postdoc, Stanford University, Incoming Professor, CMU |
 | December 4, 2024 | <a href="https://drive.google.com/file/d/1RUwwfzeyTgTKXq5BztP0puW3o7qVRoVl/view?usp=drive_link/">LLM-Guided Assembly Transpilation</a> <br/> | Prof. Abdulrahman Mahmoud, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)   |
-| November 13, 2024 | Quantinization in Hardware | Prof. Thierry Tambe, Stanford University |
+| November 13, 2024 | <a href="https://drive.google.com/file/d/14fklDSWeyVPhdFA3kU9Av95WWqziJNvw/view?usp=drive_link/">Quantinization in Hardware</a> <br/> | Prof. Thierry Tambe, Stanford University |
