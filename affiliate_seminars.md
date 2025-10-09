@@ -14,6 +14,6 @@ title: events
 | April 2, 2025 | Deegen: A Meta-compiler Approach for High Performance VMs at Low Engineering Cost Abstract | Haoran Xu, PhD Student, Stanford University |
 | March 5, 2025 | Quantization Algorithms | Prof. Mert Pilanci, Stanford University |
 | February 5, 2025 | ML Research Overview | Prof. Ludwig Schmidt, Stanford University |
-| January 8, 2025 | Mapping Sparse Applications to Accelerated Computing Systems | Olivia Hsu, Postdoc, Stanford University, Incoming Professor, CMU |
+| January 8, 2025 | <a href="https://drive.google.com/file/d/1UF6tibTpYDsBtLEOEupT6y4R5hAJRSuU/view?usp=drive_link/">Mapping Sparse Applications to Accelerated Computing Systems</a> <br/> | Olivia Hsu, Postdoc, Stanford University, Incoming Professor, CMU |
 | December 4, 2024 | LLM-Guided Assembly Transpilation | Prof. Abdulrahman Mahmoud, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)   |
 | November 13, 2024 | Quantinization in Hardware | Prof. Thierry Tambe, Stanford University |
