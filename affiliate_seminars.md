@@ -5,6 +5,8 @@ title: events
 
 # Archived Monthly Affiliate Seminars
 
+See the schedule for upcoming seminars
+
 | Date | Title | Speaker |
 | ---- | ----- | ------- |
 | October 1, 2025 | <a href="https://drive.google.com/file/d/1RmGrUjKUDgxmx6OH8fUkiYehRBR8ZjA8/view?usp=drive_link/">Towards Automated GPU Kernel Generation</a> <br/> | Simon Guo, PhD Student, Stanford University |
