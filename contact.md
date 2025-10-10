@@ -5,7 +5,7 @@ title: contact
 
 # Contact Portal
 
-For inquiries about Portal research:
+<b>For inquiries about Portal research:</b>
  
 <a href="https://profiles.stanford.edu/fredrik-kjoelstad/">Prof. Fred Kjolstad</a> <br/>
 Assistant Professor,
