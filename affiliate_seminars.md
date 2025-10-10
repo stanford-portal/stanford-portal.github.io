@@ -5,7 +5,6 @@ title: events
 
 # Archived Monthly Affiliate Seminars
 
-See the <a href="https://portal.stanford.edu/schedule.html/">schedule</a><br/>for upcoming seminars
 
 | Date | Title | Speaker |
 | ---- | ----- | ------- |
