@@ -7,7 +7,7 @@ title: contact
 
 For inquiries about Portal research:
  
-Prof. Fred Kjolstad,
+<a href="https://profiles.stanford.edu/fredrik-kjoelstad/">Prof. Fred Kjolstad</a> <br/>
 Assistant Professor,
 Dept. of Computer Science, Stanford University,
 E: kjolstad@stanford.edu
