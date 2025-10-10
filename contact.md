@@ -12,7 +12,7 @@ Assistant Professor,
 Dept. of Computer Science, Stanford University,
 E: kjolstad@stanford.edu
  
-For general inquiries:
+<b>For general inquiries:</b>
  
 <a href="https://profiles.stanford.edu/intranet/julie-hitchcock/">Julie Hitchcock</a> <br/>
 Program Administrator,
