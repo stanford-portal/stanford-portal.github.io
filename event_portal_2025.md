@@ -108,7 +108,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td>11:30-12:00pm</td>
-<td>Verification and Synthesis of Spatial Implications for Bounding Volume Hierarchy Traversals </td>
+<td><a href="https://drive.google.com/file/d/1J7il5q-ZQF13lSbnEeLrwP0oKIg8TkyL/view?usp=drive_link/">Verification and Synthesis of Spatial Implications for Bounding Volume Hierarchy Traversals</a> <br/> </td>
 <td>Clark Barrett</td>
 <td>Faculty</td>
 </tr>
