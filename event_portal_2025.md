@@ -82,7 +82,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td>9:30-10:00am</td>
-<td>Compiling Set Expressions onto Acceleration Trees </td>
+<td><a href="https://drive.google.com/file/d/15MyskTqkIfBet8-WEsjQHagGrDh4z9tt/view?usp=drive_link/">Compiling Set Expressions onto Acceleration Trees</a> <br/> </td>
 <td>AJ Root</td>
 <td>PhD Student</td>
 </tr>
