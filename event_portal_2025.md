@@ -25,7 +25,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td>4:15-4:30pm</td>
-<td>Research Overview</td>
+<td><a href="https://drive.google.com/file/d/1OKrnnF0fhxK8VvJ_PBQvYTDoGmUaAk5S/view?usp=drive_link/">Research Overview</a> <br/></td>
 <td>Fred Kjolstad</td>
 <td>Faculty</td>
 </tr>
