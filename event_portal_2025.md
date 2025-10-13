@@ -18,7 +18,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td>4:00-4:15pm</td>
-<td>Welcome - Introduction</td>
+<td><a href="https://drive.google.com/file/d/1n3Q50-ZIsghohNGQ0U0-kzW_cSvN899h/view?usp=drive_link/">Welcome - Introduction</a> <br/></td>
 <td>Mark Horowitz</td>
 <td>Faculty</td>
 </tr>
