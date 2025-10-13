@@ -96,7 +96,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td><b>10:30-11:30am</b></td>
-<td><b>Keynote: Compiler 2.0: Building Compilers in the Era of Machine Learning</b></td>
+<td><b><a href="https://drive.google.com/file/d/1pyZ-Vf0XM_ERQ4uIrwCSJAJjlKBhJNM8/view?usp=drive_link/">Keynote: Compiler 2.0: Building Compilers in the Era of Machine Learning</a> <br/></b></td>
 <td>Saman Amarasinghe</td>
 <td>Professor, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology</td>
 </tr>
