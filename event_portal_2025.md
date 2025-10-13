@@ -68,7 +68,7 @@ Wednesday, August 27- Thursday, August 28, 2025
 
 <tr>
 <td>8:30-9:00am</td>
-<td>Introduction to the Unified Collection IR</td>
+<td><a href="https://drive.google.com/file/d/16xCsjpTG5-nt03MWTvvNRTS3NLvDx9HX/view?usp=sharing/">Introduction to the Unified Collection IR</a> <br/></td>
 <td>Fred Kjolstad</td>
 <td>Faculty</td>
 </tr>
