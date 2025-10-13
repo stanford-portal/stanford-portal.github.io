@@ -12,7 +12,7 @@ title: events
 | July 9, 2025 | Voyager: A High-Level Synthesis Based Framework for Design Space Exploration and Generation of Neural Network Accelerators | Kartik Prabhu, PhD Student, Stanford University |
 | June 4, 2025 | <a href="https://drive.google.com/file/d/1sHl0-OBUYzcFSRc2rfZCXNBzFFZeHxMI/view?usp=sharing/">Task-based tensor computations on modern GPUs</a> <br/>| Rohan Yadav, PhD Student, Stanford University |
 | May 7, 2025 | Efficient Sparsity for Deep Learning | Trevor Gale, Google DeepMind |
-| April 2, 2025 | Deegen: A Meta-compiler Approach for High Performance VMs at Low Engineering Cost Abstract | Haoran Xu, PhD Student, Stanford University |
+| April 2, 2025 | <a href="https://drive.google.com/file/d/1JncirpvA3ik3ZoN0R63maqzR-yTm6gjP/view?usp=drive_link/">Deegen: A Meta-compiler Approach for High Performance VMs at Low Engineering Cost Abstract</a> <br/> | Haoran Xu, PhD Student, Stanford University |
 | March 5, 2025 | <a href="https://drive.google.com/file/d/18kW755muL_a1s4budISeNmMPdg5blx2f/view?usp=drive_link/">Quantization Algorithms</a> <br/> | Prof. Mert Pilanci, Stanford University |
 | February 5, 2025 | ML Research Overview | Prof. Ludwig Schmidt, Stanford University |
 | January 8, 2025 | <a href="https://drive.google.com/file/d/1UF6tibTpYDsBtLEOEupT6y4R5hAJRSuU/view?usp=drive_link/">Mapping Sparse Applications to Accelerated Computing Systems</a> <br/> | Olivia Hsu, Postdoc, Stanford University, Incoming Professor, CMU |
