@@ -17,7 +17,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | November&nbsp;26 | No Talk (thanksgiving) | |
 | November&nbsp;19 | TBA | |
 | November&nbsp;12 | Accelerating Database Processing with FPGAs | Stephen Neuendorffer (AMD) |
-| **November&nbsp;5** | **TBA** | |
+| **November&nbsp;5** | **Pono: A flexible and extensible SMT-based model checker** | Áron Ricardo Perez-Lopez |
 | October&nbsp;29 | TBA | |
 | October&nbsp;22 | TBA | |
 | October&nbsp;15 | Efficient Optimization with Encoded Ising Models | Devrath Iyer |
