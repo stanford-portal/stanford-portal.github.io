@@ -15,7 +15,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | December&nbsp;10 | Compiling Recurrences to Systolic Architectures | Shiv Sundram |
 | **December&nbsp;3** | **The Sphinx Framework** | **Jeffrey Yu** |
 | November&nbsp;26 | No Talk (thanksgiving) | |
-| November&nbsp;19 | TBA | |
+| November&nbsp;19 | Solving Low-Rank Constrained Optimization with Tensor Algebra | Ritvik Sharma |
 | November&nbsp;12 | Accelerating Database Processing with FPGAs | Stephen Neuendorffer (AMD) |
 | **November&nbsp;5** | **Pono: A flexible and extensible SMT-based model checker** | Áron Ricardo Perez-Lopez |
 | October&nbsp;29 | TBA | |
