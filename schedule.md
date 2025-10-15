@@ -18,7 +18,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | November&nbsp;19 | Solving Low-Rank Constrained Optimization with Tensor Algebra | Ritvik Sharma |
 | November&nbsp;12 | Accelerating Database Processing with FPGAs | Stephen Neuendorffer (AMD) |
 | **November&nbsp;5** | **Pono: A flexible and extensible SMT-based model checker** | Áron Ricardo Perez-Lopez |
-| October&nbsp;29 | TBA | |
+| October&nbsp;29 | Mapping AI inference workloads to Heterogeneous Hardware at scale | Zain Asgard |
 | October&nbsp;22 | TBA | |
 | October&nbsp;15 | Efficient Optimization with Encoded Ising Models | Devrath Iyer |
 | October&nbsp;8 | Sparse ML Compilation Framworks for CPUs and Dataflow Machines | Bobby Yan and Rubens Lacouture |
