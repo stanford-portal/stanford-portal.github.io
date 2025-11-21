@@ -28,7 +28,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | October&nbsp;29 | Mapping AI inference workloads to Heterogeneous Hardware at scale | Zain Asgar |
 | October&nbsp;22 | Compiling Declarative Recurrences into Optimized Systolic Array Accelerators | Akhilesh Balasingam |
 | October&nbsp;15 | Efficient Optimization with Encoded Ising Models | Devrath Iyer |
-| October&nbsp;8 | Sparse ML Compilation Framworks for CPUs and Dataflow Machines | Bobby Yan and Rubens Lacouture |
+| October&nbsp;8 | Sparse ML Compilation Frameworks for CPUs and Dataflow Machines | Bobby Yan and Rubens Lacouture |
 | **October 1** | **Towards Automated GPU Kernel Generation** | **Simon Guo** |
 | September&nbsp;24 | Planning Meeting |  |
 
