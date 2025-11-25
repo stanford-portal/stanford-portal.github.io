@@ -8,10 +8,6 @@ title: events
 
 | Date | Title | Speaker |
 | ---- | ----- | ------- |
-| October 29, 2025 | Mapping AI inference workloads to Heterogeneous Hardware at scale | Zain Asgar, Adjunct Professor, Stanford University |
-| October 22, 2025 | Compiling Declarative Recurrences into Optimized Systolic Array Accelerators | Akhilesh Balasingam, MS Student, Stanford University |
-| October 15, 2025 | Efficient Optimization with Encoded Ising Models | Devrath Iyer, PhD Student, Stanford University |
-| October 8, 2025 | Sparse ML Compilation Frameworks for CPUs and Dataflow Machines | Bobby Yan & Rubens Lacouture, PhD Students, Stanford University |
 | October 1, 2025 | <a href="https://drive.google.com/file/d/1RmGrUjKUDgxmx6OH8fUkiYehRBR8ZjA8/view?usp=drive_link/">Towards Automated GPU Kernel Generation</a> <br/> | Simon Guo, PhD Student, Stanford University |
 | July 9, 2025 | Voyager: A High-Level Synthesis Based Framework for Design Space Exploration and Generation of Neural Network Accelerators | Kartik Prabhu, PhD Student, Stanford University |
 | June 4, 2025 | <a href="https://drive.google.com/file/d/1sHl0-OBUYzcFSRc2rfZCXNBzFFZeHxMI/view?usp=sharing/">Task-based tensor computations on modern GPUs</a> <br/>| Rohan Yadav, PhD Student, Stanford University |
