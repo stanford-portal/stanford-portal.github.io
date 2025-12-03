@@ -22,7 +22,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | December&nbsp;17 | End of quarter (no seminar) ||
 | December&nbsp;10 | Compiling Recurrences to Systolic Architectures | Shiv Sundram |
 | **December&nbsp;3** | **The Sphinx Framework** | **Jeffrey Yu** |
-| November&nbsp;26 | No Talk (thanksgiving) | |
+| November&nbsp;26 | Thanksgiving Break (no seminar) | |
 | November&nbsp;19 | Quantum Compilation and Simulation | Ritvik Sharma |
 | November&nbsp;12 | Accelerating Database Processing with FPGAs | Stephen Neuendorffer (AMD) |
 | CANCELED: **November&nbsp;5**  | **Pono 2.0: A Versatile SMT-Based Model Checker for Safety and Liveness** | Áron Ricardo Perez-Lopez |
