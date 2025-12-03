@@ -18,7 +18,8 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
-| December&nbsp;17 | Edge-Efficient Video Diffusion Transformer via Semantic-Aware Block-wise Quantization with Sensitive Layer Error Compensation | Wonsuk Jang |
+| Dec. 22- Jan. 2 | Winter Break (no seminars) ||
+| December&nbsp;17 | End of quarter (no seminar) ||
 | December&nbsp;10 | Compiling Recurrences to Systolic Architectures | Shiv Sundram |
 | **December&nbsp;3** | **The Sphinx Framework** | **Jeffrey Yu** |
 | November&nbsp;26 | No Talk (thanksgiving) | |
