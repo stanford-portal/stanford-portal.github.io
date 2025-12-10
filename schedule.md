@@ -25,7 +25,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | November&nbsp;26 | Thanksgiving Break (no seminar) | |
 | November&nbsp;19 | Quantum Compilation and Simulation | Ritvik Sharma |
 | November&nbsp;12 | Accelerating Database Processing with FPGAs | Stephen Neuendorffer (AMD) |
-| CANCELED: **November&nbsp;5**  | **Pono 2.0: A Versatile SMT-Based Model Checker for Safety and Liveness** | Áron Ricardo Perez-Lopez |
+| CANCELED: **November&nbsp;5**  | **Pono 2.0: A Versatile SMT-Based Model Checker for Safety and Liveness** | **Áron Ricardo Perez-Lopez** |
 | October&nbsp;29 | Mapping AI inference workloads to Heterogeneous Hardware at scale | Zain Asgar |
 | October&nbsp;22 | Compiling Declarative Recurrences into Optimized Systolic Array Accelerators | Akhilesh Balasingam |
 | October&nbsp;15 | Efficient Optimization with Encoded Ising Models | Devrath Iyer |
