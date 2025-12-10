@@ -12,7 +12,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
 | **January 7** |  |  |
-| **February 4**| **Pono 2.0: A Versatile SMT-Based Model Checker for Safety and Liveness** | Áron Ricardo Perez-Lopez |
+| **February 4**| **Pono 2.0: A Versatile SMT-Based Model Checker for Safety and Liveness** | **Áron Ricardo Perez-Lopez** |
 
 # Fall 2025
 
