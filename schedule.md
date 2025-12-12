@@ -11,6 +11,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
+| **March 4** |  | **Yuchen Mei** |
 | **February 4** | **Pono 2.0: A Versatile SMT-Based Model Checker for Safety and Liveness** | **Áron Ricardo Perez-Lopez** |
 | **January 7**|  | **Wonsuk Jang** |
 
