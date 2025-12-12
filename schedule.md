@@ -12,7 +12,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
 | **February 4** | **Pono 2.0: A Versatile SMT-Based Model Checker for Safety and Liveness** | **Áron Ricardo Perez-Lopez** |
-| **January 7**| **LLM-FSM: Scaling Large Language Models for Finite-State Reasoning in RTL Code Generation** | **Yuheng Wu** |
+| **January 7**|  | **Wonsuk Jang** |
 
 # Fall 2025
 
