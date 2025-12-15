@@ -13,7 +13,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | ---- | ----- | ------- |
 | **March 4** |  | **Yuchen Mei** |
 | **February 4** | **Pono 2.0: A Versatile SMT-Based Model Checker for Safety and Liveness** | **Áron Ricardo Perez-Lopez** |
-| **January 7**|  | **Wonsuk Jang** |
+| **January 7**| **SemanticDialect: Fine-grained Block-wise Mixed-format Video Diffusion Transformer Quantization** | **Wonsuk Jang** |
 
 # Fall 2025
 
