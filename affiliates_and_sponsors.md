@@ -52,7 +52,6 @@ members also have the opportunity to pose research challenges from the real
 world and collaborate with the center on solutions.
 
 | Industry Affiliate Information                          |
-| Sponsorship Information                                 |
 ----------------------------------------- | ------------- |
 | Membership fee per year                 | $250K         |
 | Membership term                         | Annual        |
