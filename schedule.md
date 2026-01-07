@@ -12,7 +12,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
 | March 11 | | |
-| **March 4** |  | **Yuchen Mei** |
+| **March 4** | **TBD** | **Yuchen Mei** |
 | February 25 | | |
 | February 18 | | |
 | February 11 | Optimal Software Pipelining and Warp Specialization for Tensor Core GPUs | Rupanshu Soi |
