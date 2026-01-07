@@ -19,7 +19,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | **February 4** | **Pono 2.0: A Versatile SMT-Based Model Checker for Safety and Liveness** | **Áron Ricardo Perez-Lopez** |
 | January 28 | | |
 | January 21 | Non-linear Function Approximation for Quantized Neural Network Using Formal Tools | Zhouhua Xie |
-| January 14 | | |
+| January 14 | Winter-Spring Planning | |
 | **January 7**| **SemanticDialect: Fine-grained Block-wise Mixed-format Video Diffusion Transformer Quantization** | **Wonsuk Jang** |
 
 # Fall 2025
