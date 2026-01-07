@@ -13,6 +13,15 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | ---- | ----- | ------- |
 | **March 4** |  | **Yuchen Mei** |
 | **February 4** | **Pono 2.0: A Versatile SMT-Based Model Checker for Safety and Liveness** | **Áron Ricardo Perez-Lopez** |
+| March 11 | | |
+| March 4 | | |
+| February 25 | | |
+| February 18 | | |
+| February 11 | Optimal Software Pipelining and Warp Specialization for Tensor Core GPUs | Rupanshu Soi |
+| February 4 | | |
+| January 28 | | |
+| January 21 | | |
+| January 14 | | |
 | **January 7**| **SemanticDialect: Fine-grained Block-wise Mixed-format Video Diffusion Transformer Quantization** | **Wonsuk Jang** |
 
 # Fall 2025
