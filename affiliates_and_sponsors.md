@@ -46,10 +46,10 @@ title: affiliates and sponsors
 
 # Membership
 
-Our corporate members are a vital and integral part of Portal.  Not only do
+Our member companies are a vital and integral part of Portal.  Not only do
 membership fees provide essential funding for the center's activities, but
 members also have the opportunity to pose research challenges from the real
-world and collaborate with the center on solutions.
+world and engage with the center on solutions.
 
 | Industry Affiliate Information                          |
 ----------------------------------------- | ------------- |
