@@ -13,7 +13,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | ---- | ----- | ------- |
 | March 11 | | |
 | **March 4** | **TBD** | **Yuchen Mei** |
-| February 25 | | |
+| February 25 | Data Layout Polymorphism for Bounding Volume Hierarchies | Chris Gyurgyik|
 | February 18 | | |
 | February 11 | Optimal Software Pipelining and Warp Specialization for Tensor Core GPUs | Rupanshu Soi |
 | **February 4** | **Pono 2.0: A Versatile SMT-Based Model Checker for Safety and Liveness** | **Áron Ricardo Perez-Lopez** |
