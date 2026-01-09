@@ -12,7 +12,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
 | March 11 | | |
-| **March 4** | **TBD** | **Yuchen Mei** |
+| **March 4** | **Zircon: A Heterogeneous CGRA for Accelerating Dense and Sparse Machine Learning Applications** | **Yuchen Mei** |
 | February 25 | Data Layout Polymorphism for Bounding Volume Hierarchies | Chris Gyurgyik|
 | February 18 | | |
 | February 11 | Optimal Software Pipelining and Warp Specialization for Tensor Core GPUs | Rupanshu Soi |
