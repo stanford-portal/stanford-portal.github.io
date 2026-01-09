@@ -15,7 +15,7 @@ title: affiliates and sponsors
 <h2>Industry Sponsors</h2>
 <p>
 <span class="founding"><img src="/img/sponsors/qualcomm-logo.svg" /></span>
-<p>
+</p>
 
 
 <!--<div id="sponsors">
