@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Industry Affiliates Program
+title: Industry affiliates program
 ---
 
 <h2>Member Companies</h2>
