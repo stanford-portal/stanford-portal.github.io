@@ -56,7 +56,7 @@ membership fees provide essential funding for the center's activities, but
 members also have the opportunity to pose research challenges from the real
 world and engage with the center on solutions.
 
-| Industrial Affiliate Program Information                          |
+| Industrial Affiliates Program Information                          |
 ----------------------------------------- | ------------- |
 | Membership fee per year                 | $250K         |
 | Membership term                         | Annual        |
