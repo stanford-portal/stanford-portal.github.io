@@ -1,9 +1,9 @@
 ---
 layout: default
-title: affiliates and sponsors
+title: Industry Affiliates Program
 ---
 
-<h2>Industry Affiliates</h2>
+<h2>Member Companies</h2>
 <p>
 <span class="founding"><img src="/img/sponsors/amd-logo.svg" /></span>
 <span class="founding"><img src="/img/sponsors/apple-logo.svg" /></span>
@@ -56,7 +56,7 @@ membership fees provide essential funding for the center's activities, but
 members also have the opportunity to pose research challenges from the real
 world and engage with the center on solutions.
 
-| Industry Affiliate Information                          |
+| Industry Affiliate Program Information                          |
 ----------------------------------------- | ------------- |
 | Membership fee per year                 | $250K         |
 | Membership term                         | Annual        |
