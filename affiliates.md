@@ -12,43 +12,6 @@ title: Industrial Affiliates Program
 <span class="founding"><img src="/img/sponsors/nvidia-logo.svg" /></span>
 </p>
 
-<h2>Industry Sponsors</h2>
-<p>
-<span class="founding"><img src="/img/sponsors/qualcomm-logo.svg" /></span>
-</p>
-
-
-<!--<div id="sponsors">
-<div style="text-align:right;"><span class="founding" style="padding-left:30px;">Founding Sponsor</span></div>
-
-<h2>Platinum Members</h2>
-<p>
-</p>
-
-<h2>Gold Members</h2>
-<p>
-</p>
-
-<h2>Silver Members</h2>
-<p>
-</p>
-
-<h2>Government Sponsors</h2>
-<p>
-</p>
-
-<h2>Additional Sponsors</h2>
-<p>
-</p>
-
-</div>
-
-# Affiliated Stanford Centers
-[Stanford Center for Agile Hardware](https://aha.stanford.edu)  
-[Stanford Center for AI Safety](https://aisafety.stanford.edu/)  
-[Stanford Center for Blockchain Research](https://cbr.stanford.edu/)
--->
-
 # Membership
 
 Our member companies are a vital and integral part of Portal.  Not only do
