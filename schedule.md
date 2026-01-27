@@ -15,9 +15,9 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | **March 4** | **Zircon: A Heterogeneous CGRA for Accelerating Dense and Sparse Machine Learning Applications** | **Yuchen Mei** |
 | February 25 | Data Layout Polymorphism for Bounding Volume Hierarchies | Chris Gyurgyik|
 | February 18 | | |
-| February 11 | Optimal Software Pipelining and Warp Specialization for Tensor Core GPUs | Rupanshu Soi |
+| February 11 | Productively Programming Accelerated Computing Systems | Rohan Yadav |
 | **February 4** | **Pono 2.0: A Versatile SMT-Based Model Checker for Safety and Liveness** | **Áron Ricardo Perez-Lopez** |
-| January 28 | Productively Programming Accelerated Computing Systems | Rohan Yadav |
+| January 28 | Optimal Software Pipelining and Warp Specialization for Tensor Core GPUs | Rupanshu Soi |
 | January 21 | Non-linear Function Approximation for Quantized Neural Network Using Formal Tools | Zhouhua Xie |
 | January 14 | Winter-Spring Planning | |
 | **January 7**| **SemanticDialect: Fine-grained Block-wise Mixed-format Video Diffusion Transformer Quantization** | **Wonsuk Jang** |
