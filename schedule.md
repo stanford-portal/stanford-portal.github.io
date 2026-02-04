@@ -14,7 +14,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | March 11 | | |
 | **March 4** | **Zircon: A Heterogeneous CGRA for Accelerating Dense and Sparse Machine Learning Applications** | **Yuchen Mei** |
 | February 25 | Data Layout Polymorphism for Bounding Volume Hierarchies | Chris Gyurgyik|
-| February 18 | Designing a Sparsity-Aware Processing Unit for LLM Activation Outliers| Wonsuk Jang|
+| February 18 | Designing a Sparsity-Aware Processing Unit for LLM Activation Outliers| Bo Wun Cheng|
 | February 11 | Productively Programming Accelerated Computing Systems | Rohan Yadav |
 | **February 4** | **Pono 2.0: A Versatile SMT-Based Model Checker for Safety and Liveness** | **Áron Ricardo Perez-Lopez** |
 | January 28 | Optimal Software Pipelining and Warp Specialization for Tensor Core GPUs | Rupanshu Soi |
