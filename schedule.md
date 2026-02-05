@@ -11,7 +11,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
-| March 11 | Nestan Tsiskaridze | Chasing the Optimum: The Rise and Evolution of Optimization Modulo Theories |
+| March 11 | Chasing the Optimum: The Rise and Evolution of Optimization Modulo Theories | Nestan Tsiskaridze |
 | **March 4** | **Zircon: A Heterogeneous CGRA for Accelerating Dense and Sparse Machine Learning Applications** | **Yuchen Mei** |
 | February 25 | Data Layout Polymorphism for Bounding Volume Hierarchies | Chris Gyurgyik|
 | February 18 | Designing a Sparsity-Aware Processing Unit for LLM Activation Outliers| Bo Wun Cheng|
