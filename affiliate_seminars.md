@@ -8,6 +8,7 @@ title: events
 
 | Date | Title | Speaker |
 | ---- | ----- | ------- |
+| February 4, 2026 | Pono 2.0: A Versatile SMT-Based Model Checker for Safety and Liveness | Áron Ricardo Perez-Lopez, PhD Student, Stanford University |
 | January 7, 2026 | SemanticDialect: Fine-grained Block-wise Mixed-format Video Diffusion Transformer Quantization | Wonsuk Jang, PhD Student, Stanford University |
 | December 3, 2025 | The Sphinx Framework | Jeffrey Yu, PhD Student, Stanford University |
 | October 1, 2025 | <a href="https://drive.google.com/file/d/1RmGrUjKUDgxmx6OH8fUkiYehRBR8ZjA8/view?usp=drive_link/">Towards Automated GPU Kernel Generation</a> <br/> | Simon Guo, PhD Student, Stanford University |
