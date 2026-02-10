@@ -8,6 +8,7 @@ title: events
 
 | Date | Title | Speaker |
 | ---- | ----- | ------- |
+| December 3, 2025 | The Sphinx Framework | Jeffrey Yu, PhD Student, Stanford University |
 | October 1, 2025 | <a href="https://drive.google.com/file/d/1RmGrUjKUDgxmx6OH8fUkiYehRBR8ZjA8/view?usp=drive_link/">Towards Automated GPU Kernel Generation</a> <br/> | Simon Guo, PhD Student, Stanford University |
 | July 9, 2025 | Voyager: A High-Level Synthesis Based Framework for Design Space Exploration and Generation of Neural Network Accelerators | Kartik Prabhu, PhD Student, Stanford University |
 | June 4, 2025 | <a href="https://drive.google.com/file/d/1sHl0-OBUYzcFSRc2rfZCXNBzFFZeHxMI/view?usp=sharing/">Task-based tensor computations on modern GPUs</a> <br/>| Rohan Yadav, PhD Student, Stanford University |
