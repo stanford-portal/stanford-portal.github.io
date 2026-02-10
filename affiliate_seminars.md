@@ -5,7 +5,7 @@ title: events
 
 # Archived Monthly Affiliate Seminars
 
-
+Please note that some seminar recordings are unavailable due to pre-publication constraints
 | Date | Title | Speaker |
 | ---- | ----- | ------- |
 | February 4, 2026 | Pono 2.0: A Versatile SMT-Based Model Checker for Safety and Liveness | Áron Ricardo Perez-Lopez, PhD Student, Stanford University |
