@@ -5,6 +5,7 @@ title: events
 
 # Archived Monthly Affiliate Seminars
 
+_Please note: some talk recordings are not included due to pre-publication constraints_
 
 | Date | Title | Speaker |
 | ---- | ----- | ------- |
