@@ -7,6 +7,10 @@ title: events
 <a href="https://oceanohalfmoonbay.com/">Oceano Hotel, Half Moon Bay</a> <br/>
 Wednesday, August 27- Thursday, August 28, 2025
 
+
+
+_Please note: some talk recordings are not included due to pre-publication constraints_
+
 <h2>Wednesday, August 27</h2>
 <table>
 <tr>
