@@ -11,7 +11,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
-| **April 1** | **Affiliates Seminar (details TBA)** |  |
+| **April 1** | **Productively Programming Accelerated Computing Systems** | **Rohan Yadav** |
 | March 25 | Spring Break (no seminar) |  |
 | March 18 | End of quarter (no seminar)  |  |
 | March 11 | Chasing the Optimum: The Rise and Evolution of Optimization Modulo Theories | Nestan Tsiskaridze |
