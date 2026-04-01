@@ -7,6 +7,21 @@ The Portal Center organizes a monthly seminar that is open to industry affiliate
 
 In the following schedules external affiliate and sponsor talks are listed in bold text and internal talks with normal font.
 
+# Spring 2026
+
+| Date | Topic | Speaker |
+| ---- | ----- | ------- |
+| **June 3** | **Scheduling Divergent and Data-Dependent Recursive Workloads for Parallel Architectures** | **AJ Root** |
+| May 27 | Compilation of Fused Relational Operations on Multisets | James Dong |
+| May 20 | Portable Dynamic Tiling for Sparse Tensor Applications |  Gautham Ravipati |
+| May 13 |  |  |
+| **May 6** |  |  |
+| April 29 | Cyclotron: Compilation of Recurrences to Distributed and Systolic Architectures | Shiv Sundram |
+| April 22 | TBD | Zain Asgar |
+| April 15 | SPEC: A Scalable and Physical-Design-Friendly Architecture for Efficient CGRAs | Po-Han Chen |
+| April 8 | Streaming Tensor Program: A streaming abstraction for dynamic parallelism | Gina Sohn |
+| **April 1** | **Productively Programming Accelerated Computing Systems** | **Rohan Yadav** |
+
 # Winter 2026
 
 | Date | Topic | Speaker |
