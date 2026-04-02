@@ -11,34 +11,34 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
-| **June 3** | **Scheduling Divergent and Data-Dependent Recursive Workloads for Parallel Architectures** | **AJ Root** |
-| May 27 | Compilation of Fused Relational Operations on Multisets | James Dong |
-| May 20 | Portable Dynamic Tiling for Sparse Tensor Applications |  Gautham Ravipati |
-| May 13 |  |  |
-| **May 6** |  |  |
-| April 29 | Cyclotron: Compilation of Recurrences to Distributed and Systolic Architectures | Shiv Sundram |
-| April 22 | TBD | Zain Asgar |
-| April 15 | SPEC: A Scalable and Physical-Design-Friendly Architecture for Efficient CGRAs | Po-Han Chen |
-| April 8 | Streaming Tensor Program: A streaming abstraction for dynamic parallelism | Gina Sohn |
-| **April 1** | **Productively Programming Accelerated Computing Systems** | **Rohan Yadav** |
+| **June&nbsp;3** | **Scheduling Divergent and Data-Dependent Recursive Workloads for Parallel Architectures** | **AJ Root** |
+| May&nbsp;27 | Compilation of Fused Relational Operations on Multisets | James Dong |
+| May&nbsp;20 | Portable Dynamic Tiling for Sparse Tensor Applications |  Gautham Ravipati |
+| May&nbsp;13 |  |  |
+| **May&nbsp;6** |  |  |
+| April&nbsp;29 | Cyclotron: Compilation of Recurrences to Distributed and Systolic Architectures | Shiv Sundram |
+| April&nbsp;22 | TBD | Zain Asgar |
+| April&nbsp;15 | SPEC: A Scalable and Physical-Design-Friendly Architecture for Efficient CGRAs | Po-Han Chen |
+| April&nbsp;8 | Streaming Tensor Program: A streaming abstraction for dynamic parallelism | Gina Sohn |
+| **April&nbsp;1** | **Productively Programming Accelerated Computing Systems** | **Rohan Yadav** |
 
 # Winter 2026
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
-| **April 1** | **Productively Programming Accelerated Computing Systems** | **Rohan Yadav** |
-| March 25 | Spring Break (no seminar) |  |
-| March 18 | End of quarter (no seminar)  |  |
-| March 11 | Chasing the Optimum: The Rise and Evolution of Optimization Modulo Theories | Nestan Tsiskaridze |
-| **March 4** | **Zircon: A Heterogeneous CGRA for Accelerating Dense and Sparse Machine Learning Applications** | **Yuchen Mei & Michael Oduoza** |
-| February 25 | Data Layout Polymorphism for Bounding Volume Hierarchies | Chris Gyurgyik|
-| February 18 | Designing a Sparsity-Aware Processing Unit for LLM Activation Outliers| Bo Wun Cheng|
-| February 11 | Productively Programming Accelerated Computing Systems | Rohan Yadav |
-| **February 4** | **Pono 2.0: A Versatile SMT-Based Model Checker for Safety and Liveness** | **Áron Ricardo Perez-Lopez** |
-| January 28 | Optimal Software Pipelining and Warp Specialization for Tensor Core GPUs | Rupanshu Soi |
-| January 21 | Non-linear Function Approximation for Quantized Neural Network Using Formal Tools | Zhouhua Xie |
-| January 14 | Winter-Spring Planning | |
-| **January 7**| **SemanticDialect: Fine-grained Block-wise Mixed-format Video Diffusion Transformer Quantization** | **Wonsuk Jang** |
+| **April&nbsp;1** | **Productively Programming Accelerated Computing Systems** | **Rohan Yadav** |
+| March&nbsp;25 | Spring Break (no seminar) |  |
+| March&nbsp;18 | End of quarter (no seminar)  |  |
+| March&nbsp;11 | Chasing the Optimum: The Rise and Evolution of Optimization Modulo Theories | Nestan Tsiskaridze |
+| **March&nbsp;4** | **Zircon: A Heterogeneous CGRA for Accelerating Dense and Sparse Machine Learning Applications** | **Yuchen Mei & Michael Oduoza** |
+| February&nbsp;25 | Data Layout Polymorphism for Bounding Volume Hierarchies | Chris Gyurgyik|
+| February&nbsp;18 | Designing a Sparsity-Aware Processing Unit for LLM Activation Outliers| Bo Wun Cheng|
+| February&nbsp;11 | Productively Programming Accelerated Computing Systems | Rohan Yadav |
+| **February&nbsp;4** | **Pono 2.0: A Versatile SMT-Based Model Checker for Safety and Liveness** | **Áron Ricardo Perez-Lopez** |
+| January&nbsp;28 | Optimal Software Pipelining and Warp Specialization for Tensor Core GPUs | Rupanshu Soi |
+| January&nbsp;21 | Non-linear Function Approximation for Quantized Neural Network Using Formal Tools | Zhouhua Xie |
+| January&nbsp;14 | Winter-Spring Planning | |
+| **January&nbsp;7**| **SemanticDialect: Fine-grained Block-wise Mixed-format Video Diffusion Transformer Quantization** | **Wonsuk Jang** |
 
 # Fall 2025
 
