@@ -14,7 +14,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | **June&nbsp;3** | **Scheduling Divergent and Data-Dependent Recursive Workloads for Parallel Architectures** | **AJ Root** |
 | May&nbsp;27 | Compilation of Fused Relational Operations on Multisets | James Dong |
 | May&nbsp;20 | Portable Dynamic Tiling for Sparse Tensor Applications |  Gautham Ravipati |
-| May&nbsp;13 |  |  |
+| May&nbsp;13 | TBD  | Yasmine Omri |
 | **May&nbsp;6** |  |  |
 | April&nbsp;29 | Cyclotron: Compilation of Recurrences to Distributed and Systolic Architectures | Shiv Sundram |
 | April&nbsp;22 | TBD | Zain Asgar |
