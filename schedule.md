@@ -17,7 +17,7 @@ In the following schedules external affiliate and sponsor talks are listed in bo
 | May&nbsp;13 | TBD  | Yasmine Omri |
 | **May&nbsp;6** |  |  |
 | April&nbsp;29 | Cyclotron: Compilation of Recurrences to Distributed and Systolic Architectures | Shiv Sundram |
-| April&nbsp;22 | TBD | Zain Asgar |
+| April&nbsp;22 | The emerging role of SRAM-centric chips in AI inference | Zain Asgar |
 | April&nbsp;15 | SPEC: A Scalable and Physical-Design-Friendly Architecture for Efficient CGRAs | Po-Han Chen |
 | April&nbsp;8 | Streaming Tensor Program: A streaming abstraction for dynamic parallelism | Gina Sohn |
 | **April&nbsp;1** | **Productively Programming Accelerated Computing Systems** | **Rohan Yadav** |
