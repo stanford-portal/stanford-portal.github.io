@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Industrial Affiliates Program
+title: Industrial Affiliate Program
 ---
 
 <h2>Member Companies</h2>
@@ -19,7 +19,7 @@ membership fees provide essential funding for the center's activities, but
 members also have the opportunity to pose research challenges from the real
 world and engage with the center on solutions.
 
-| Industrial Affiliates Program Information                          |
+| Industrial Affiliate Program Information                          |
 ----------------------------------------- | ------------- |
 | Membership fee per year                 | $250K         |
 | Membership term                         | Annual        |
@@ -39,7 +39,7 @@ Presentations from faculty site visits and annual retreats, and all information,
 
 # Additional Program Funding
 
-Industrial Affiliates Programs may permit companies to provide additional
+Industrial Affiliate Programs may permit companies to provide additional
 funding above the membership fee to support an area of on-going research within
 the program. All research results arising from the use of the additional
 funding will be shared with all program members and the general public.
