@@ -30,7 +30,7 @@ world and engage with the center on solutions.
 |Intern Position Advertising|x|x|
 |High Level of Faculty/Student Engagement||x|
 |Coordinated Faculty Student Site Visits||x|
-|Visiting Scholar Position||x|
+|[Visiting Scholar](https://doresearch.stanford.edu/policies/research-policy-handbook/non-faculty-research-appointments/visiting-scholars) Position||x|
 
 **Discounted enrollments for members available in select professional and technical courses from the [Stanford Engineering Center for Global & Online Education](https://enterpriseeducation.stanford.edu/our-programs/curated). Portal members can contact julieh1@stanford.edu for more info.**
 
