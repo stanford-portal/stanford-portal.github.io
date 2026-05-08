@@ -19,17 +19,18 @@ membership fees provide essential funding for the center's activities, but
 members also have the opportunity to pose research challenges from the real
 world and engage with the center on solutions.
 
-| Industrial Affiliate Program Information                          |
------------------------------------------ | ------------- |
-| Membership fee per year                 | $250K         |
-| Membership term                         | Annual        |
-| Engagement with faculty and students    | High          |
-| Feature request priority                | Top           |
-| Bug fix priority                        | Top           |
-| Annual research retreat                 | Yes           |
-| Slack channel invitation                | Yes           |
-| Research seminar invitations            | Yes           |
-| Student internships and recruiting      | Yes           |
+
+| **Benefits**                            | **Associate** | **Full**  |
+----------------------------------------- | ------------- | --------- |
+| **Annual Membership Fee**               | **$150K**     | **$250K** |
+|Invitation to Participate in Portal Center Annual Research Retreat|x|x|
+|Invitations to Portal Research Seminars|x|x|
+|Participation in Monthly Research Reviews|x|x|
+|Invitation to Participate in Monthly Research Reviews|x|x|
+|Intern Position Advertising|x|x|
+|High Level of Faculty/Student Engagement||x|
+|Coordinated Faculty Student Site Visits||x|
+|Visiting Scholar Position||x|
 
 **Discounted enrollments for members available in select professional and technical courses from the [Stanford Engineering Center for Global & Online Education](https://enterpriseeducation.stanford.edu/our-programs/curated). Portal members can contact julieh1@stanford.edu for more info.**
 
