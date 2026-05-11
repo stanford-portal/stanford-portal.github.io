@@ -175,6 +175,11 @@
 
 # Master students
 
+- name: Atharva Chougule
+  position: master
+  img: AtharvaChougule.jpg
+  website: https://atharva151101.github.io/
+  
 - name: Yi Sun
   position: master
   img: yisun.jpg
