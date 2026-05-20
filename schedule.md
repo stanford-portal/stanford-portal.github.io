@@ -16,7 +16,6 @@ In the schedule below, external affiliate and sponsor talks are highlighted in b
 | July 22 | Internal Meeting (no Zoom)  |  |
 | August 5 | Internal Meeting (no Zoom) | |
 | August 19| No meeting (Portal Annual Retreat on August 20-21) |  |
-
 # Spring 2026
 
 | Date | Topic | Speaker |
@@ -31,7 +30,6 @@ In the schedule below, external affiliate and sponsor talks are highlighted in b
 | April&nbsp;15 | SPEC: A Scalable and Physical-Design-Friendly Architecture for Efficient CGRAs | Po-Han Chen |
 | April&nbsp;8 | Streaming Tensor Program: A streaming abstraction for dynamic parallelism | Gina Sohn |
 | **April&nbsp;1** | **Productively Programming Accelerated Computing Systems** | **Rohan Yadav** |
-
 # Winter 2026
 
 | Date | Topic | Speaker |
@@ -49,7 +47,6 @@ In the schedule below, external affiliate and sponsor talks are highlighted in b
 | January&nbsp;21 | Non-linear Function Approximation for Quantized Neural Network Using Formal Tools | Zhouhua Xie |
 | January&nbsp;14 | Winter-Spring Planning | |
 | **January&nbsp;7**| **SemanticDialect: Fine-grained Block-wise Mixed-format Video Diffusion Transformer Quantization** | **Wonsuk Jang** |
-
 # Fall 2025
 
 | Date | Topic | Speaker |
@@ -68,7 +65,6 @@ In the schedule below, external affiliate and sponsor talks are highlighted in b
 | October&nbsp;8 | Sparse ML Compilation Frameworks for CPUs and Dataflow Machines | Bobby Yan and Rubens Lacouture |
 | **October 1** | **Towards Automated GPU Kernel Generation** | **Simon Guo** |
 | September&nbsp;24 | Planning Meeting |  |
-
 
 # Summer 2025
 
