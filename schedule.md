@@ -3,7 +3,7 @@ layout: default
 title: schedule
 ---
 
-The Portal Center hosts a monthly seminar open to industry affiliates and sponsors, usually on the first Wednesday of each month. If your company is an affiliate or sponsor and would like access to these meetings, please contact Julie Hitchcock: julieh1@stanford.edu. Additionally, the Portal Center conducts a weekly internal seminar. Both internal and affiliate seminars take place on Wednesdays at 12 noon in Room E401 of the CoDa Building (389 Jane Stanford Way).
+The Portal Center hosts a monthly seminar open to industry affiliates and sponsors, usually on the first Wednesday of each month. If your company is an affiliate or sponsor and would like access to these meetings, please contact Julie Hitchcock: julieh1@stanford.edu. Additionally, the Portal Center conducts a weekly internal seminar. Both internal and affiliate seminars take place on Wednesdays at 12pm in Room E401 of the CoDa Building (389 Jane Stanford Way).
 
 In the schedule below, external affiliate and sponsor talks are highlighted in bold, while internal talks are presented in regular text.
 
