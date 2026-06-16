@@ -12,7 +12,7 @@ In the schedule below, external affiliate and sponsor talks are highlighted in b
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
 | June 24 | Internal Meeting (CANCELED) |  |
-| **July 8** | **Portal Affiliates Meeting** | TBA |
+| **July 8** | **Portal Affiliates Meeting** | **Christian Kubicka** |
 | July 22 | Internal Meeting (no Zoom)  |  |
 | August 5 | Internal Meeting (no Zoom) | |
 | August 19| No meeting (Portal Annual Retreat on August 20-21) |  |
