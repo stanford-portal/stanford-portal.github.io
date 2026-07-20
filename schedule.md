@@ -13,7 +13,7 @@ In the schedule below, external affiliate and sponsor talks are highlighted in b
 | ---- | ----- | ------- |
 | June 24 | Internal Meeting (CANCELED) |  |
 | **July 8** | **µVLA: Designing a Multi-Chiplet 16nm SoP with Heterogeneous Memory on Package (HMoP) to Enable Real-Time Physical AI on the Edge** | **Christian Kubicka** |
-| July 22 | Internal Meeting (no Zoom)  |  |
+| July 22 | Charles Hong (UC Berkeley) | Building Accelerator Software in the Age of Agents |
 | August 5 | Internal Meeting (no Zoom) | |
 | August 19| No meeting (Portal Annual Retreat on August 20-21) |  |
 
