@@ -123,7 +123,7 @@ Thursday, August 20- Friday, August 21, 2026
 
 <tr>
 <td><b>1:15-2:30pm</b></td>
-<td><b>Session: Abstract Machines and Hardware Generators</b>
+<td><b>Session: Emerging Hardware and Generators</b>
 </td>
 </tr>
 
