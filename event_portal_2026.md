@@ -55,7 +55,7 @@ Thursday, August 20- Friday, August 21, 2026
 </tr>
 </table>
 
-<h2>Thursday, August 28</h2>
+<h2>Friday, August 21</h2>
 <table>
 <tr>
 <td style="width:20%;">7:45am</td>
@@ -66,28 +66,28 @@ Thursday, August 20- Friday, August 21, 2026
 
 <tr>
 <td><b>8:30-10:00am</b></td>
-<td><b>Session: High-Level Unified Collection IR</b></td>
+<td><b>Session: Collection Languages and Compilers</b></td>
 </tr>
 
 <tr>
 <td>8:30-9:00am</td>
-<td><a href="https://drive.google.com/file/d/16xCsjpTG5-nt03MWTvvNRTS3NLvDx9HX/view?usp=sharing/">Introduction to the Unified Collection IR</a> <br/></td>
+<td>Relational Algebra Compilation </td>
 <td>Fred Kjolstad</td>
 <td>Faculty</td>
 </tr>
 
 <tr>
 <td>9:00-9:30am</td>
-<td><a href="https://drive.google.com/file/d/1PTzB_gFXPLALA2YFCmjCO-DfdCIfuZYh/view?usp=drive_link/">Portable Compilation of the Collection IR</a> <br/> </td>
-<td>Olivia Hsu</td>
-<td>Postdoc, Incoming Professor CMU</td>
+<td>Decoupling Data Layouts from Bounding Volume Hierarchies</td>
+<td>Chris Gyurgyik</td>
+<td>PhD Student</td>
 </tr>
 
 <tr>
 <td>9:30-10:00am</td>
-<td><a href="https://drive.google.com/file/d/15MyskTqkIfBet8-WEsjQHagGrDh4z9tt/view?usp=drive_link/">Compiling Set Expressions onto Acceleration Trees</a> <br/> </td>
-<td>AJ Root</td>
-<td>PhD Student</td>
+<td>Partitioning Unstructured Sparse Tensor Algebra for Load-Balanced Parallel Execution</td>
+<td>Atharva Chougule</td>
+<td>MS Student</td>
 </tr>
 
 <tr>
@@ -99,9 +99,10 @@ Thursday, August 20- Friday, August 21, 2026
 
 <tr>
 <td><b>10:30-11:30am</b></td>
-<td><b><a href="https://drive.google.com/file/d/1pyZ-Vf0XM_ERQ4uIrwCSJAJjlKBhJNM8/view?usp=drive_link/">Keynote: Compiler 2.0: Building Compilers in the Era of Machine Learning</a> <br/></b></td>
-<td>Saman Amarasinghe</td>
-<td>Professor, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology</td>
+<td><b>Keynote<b>: Computer Architecture in the Age of Agentic AI </td>
+<td>Bill Dally</td>
+<td>Chief Scientist and Senior Vice   President of Research, NVIDIA)
+</td>
 </tr>
 
 <tr>
