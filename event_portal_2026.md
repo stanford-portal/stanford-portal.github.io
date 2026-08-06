@@ -3,15 +3,14 @@ layout: default
 title: events
 ---
 
-<h1>Portal Annual Retreat 2025</h1>
+<h1>Portal Annual Retreat 2026</h1>
 <a href="https://oceanohalfmoonbay.com/">Oceano Hotel, Half Moon Bay</a> <br/>
-Wednesday, August 27- Thursday, August 28, 2025
+Thursday, August 20- Friday, August 21, 2026
 
 
 
-_Please note: some talk recordings are not included due to pre-publication constraints_
 
-<h2>Wednesday, August 27</h2>
+<h2>Thursday, August 20</h2>
 <table>
 <tr>
 <td style="width:20%;">3:00pm</td>
@@ -22,34 +21,34 @@ _Please note: some talk recordings are not included due to pre-publication const
 
 <tr>
 <td>4:00-4:15pm</td>
-<td><a href="https://drive.google.com/file/d/1n3Q50-ZIsghohNGQ0U0-kzW_cSvN899h/view?usp=drive_link/">Welcome - Introduction</a> <br/></td>
+<td> Welcome - Introduction</td>
 <td>Mark Horowitz</td>
 <td>Faculty</td>
 </tr>
 
 <tr>
 <td>4:15-4:30pm</td>
-<td><a href="https://drive.google.com/file/d/1OKrnnF0fhxK8VvJ_PBQvYTDoGmUaAk5S/view?usp=drive_link/">Research Overview</a> <br/></td>
+<td>Research Overview</td>
 <td>Fred Kjolstad</td>
 <td>Faculty</td>
 </tr>
 
 <tr>
-<td>4:30-5:15pm</td>
+<td>4:30-5:00pm</td>
 <td>Lightning Talks</td>
 <td>Portal Researchers and Students</td>
 <td></td>
 </tr>
 
 <tr>
-<td>5:15-6:15pm</td>
+<td>5:00-6:30pm</td>
 <td>Poster Session & Reception (outside)</td>
 <td>Portal Researchers and Students</td>
 <td></td>
 </tr>
 
 <tr>
-<td>6:15-7:45pm</td>
+<td>6:30-8:00pm</td>
 <td>Dinner</td>
 <td>All</td>
 <td></td>
