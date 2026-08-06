@@ -129,22 +129,22 @@ Thursday, August 20- Friday, August 21, 2026
 
 <tr>
 <td>1:15-1:40pm</td>
-<td>Voyager: An HLS-Based Framework for Design-Space Exploration and Generation of DNN Accelerators </td>
-<td>Kartik Prabhu</td>
+<td>Sphinx: A 7nm 8.192 TOPS Edge-LLM Processor with Outlier-Aware W4A4 Microscaling and Fused 2b KV-Cache Decoding </td>
+<td>Jeffrey Yu</td>
 <td>PhD Student</td>
 </tr>
 
 <tr>
 <td>1:40-2:05pm</td>
-<td>Zircon: Heterogeneous CGRA for Accelerating Machine Learning, Image Processing, and Sparse Tensor Algebra Applications  </td>
-<td>Michael Oduoza</td>
+<td>Agate: A Design Space Exploration System for Heterogeneous CGRAs Accelerating Dense ML Workloads </td>
+<td>Yuchen Mei</td>
 <td>PhD Student</td>
 </tr>
 
 <tr>
 <td>2:05-2:30pm</td>
-<td>LEGO: A compiler for tiling and orchestrating sparse tensor algebra expressions  </td>
-<td>Gautham Ravipati</td>
+<td>Algorithm–Hardware Co-Design of Formatbook-Based Block-Wise Number Formats for Generative Text and Video </td>
+<td>Wonsuk Jang</td>
 <td>PhD Student</td>
 </tr>
 
