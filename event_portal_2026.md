@@ -157,27 +157,27 @@ Thursday, August 20- Friday, August 21, 2026
 
 <tr>
 <td><b>3:00-4:15pm</b></td>
-<td><b>Session: Emerging Data Representations</b></td>
+<td><b>Session: ML Compilers and Kernel Languages </b></td>
 </tr>
 
 <tr>
 <td>3:00-3:25pm</td>
-<td>A 7nm SoC for LLM-based AI Reasoning featuring Variable Block Size Formatbook Quantization</td>
-<td>Christian Kubicka</td>
+<td>Voyager ML Compiler </td>
+<td>Jeffrey Yu</td>
 <td>MS Student</td>
 </tr>
 
 <tr>
 <td>3:25-3:50pm</td>
-<td>Vision-Language Alignment from Compressed Image Representation using 2D Gaussian Splatting</td>
-<td>Yasmine Omri</td>
+<td>Extending Voyager for DCIM-Based Accelerator Generation and Compilation</td>
+<td>Allen Pan</td>
 <td>PhD Student</td>
 </tr>
 
 <tr>
 <td>3:50-4:15pm</td>
-<td>Exchangeability in Neural Network Architectures and its Application to Dynamic Pruning </td>
-<td>Luke Yi</td>
+<td>Cyclotron: Recurrence Language for Interprocessor Communication </td>
+<td>Shiv Sundram</td>
 <td>PhD Student</td>
 </tr>
 
