@@ -164,7 +164,7 @@ Thursday, August 20- Friday, August 21, 2026
 <td>3:00-3:25pm</td>
 <td>Scaling Voyager’s ML Compiler to Billion-Parameter LLMs with Automated Tiling, Fusion, and Software Pipelining  </td>
 <td>Jeffrey Yu</td>
-<td>MS Student</td>
+<td>PhD Student</td>
 </tr>
 
 <tr>
