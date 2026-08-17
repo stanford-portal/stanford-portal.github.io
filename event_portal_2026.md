@@ -7,8 +7,7 @@ title: events
 <a href="https://oceanohalfmoonbay.com/">Oceano Hotel, Half Moon Bay</a> <br/>
 Thursday, August 20- Friday, August 21, 2026
 
-
-
+[Student Posters](event_portal_2026_posters.html)
 
 <h2>Thursday, August 20</h2>
 <table>
@@ -42,7 +41,7 @@ Thursday, August 20- Friday, August 21, 2026
 
 <tr>
 <td>5:00-6:30pm</td>
-<td> [Poster Session & Reception (outside)](event_portal_2026_posters.html) </td>
+<td>Poster Session & Reception (outside) </td>
 <td>Portal Researchers and Students</td>
 <td></td>
 </tr>
