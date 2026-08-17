@@ -42,7 +42,7 @@ Thursday, August 20- Friday, August 21, 2026
 
 <tr>
 <td>5:00-6:30pm</td>
-<td>Poster Session & Reception (outside)</td>
+<td>[Poster Session & Reception (outside)](event_portal_2026_posters.html)</td>
 <td>Portal Researchers and Students</td>
 <td></td>
 </tr>
