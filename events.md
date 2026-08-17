@@ -6,7 +6,7 @@ title: events
 [Archived Monthly Affiliate Seminars](affiliate_seminars.html)
 
 ## Upcoming
-- Portal Annual Retreat 2026, August 20-21, 2026, Oceano Hotel, Half Moon Bay. 
+- [Portal Annual Retreat 2026](event_portal_2026.html), August 20-21, 2026, Oceano Hotel, Half Moon Bay. 
 
 
 ## Past
