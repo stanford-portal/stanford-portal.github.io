@@ -98,7 +98,7 @@ Thursday, August 20- Friday, August 21, 2026
 
 <tr>
 <td>10:30-11:30am</td>
-<td><b>Keynote: Computer Architecture in the Age of Agentic AI<b></td>
+<td><b>Keynote: Computer Architecture in the Age of Agentic AI</b></td>
 <td>Billy Dally</td>
 <td>Chief Scientist and Senior Vice   President of Research, NVIDIA</td>
 </tr>
