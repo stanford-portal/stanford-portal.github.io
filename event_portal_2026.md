@@ -134,15 +134,15 @@ Thursday, August 20- Friday, August 21, 2026
 
 <tr>
 <td>1:40-2:05pm</td>
-<td>Agate: A Design Space Exploration System for Heterogeneous CGRAs Accelerating Dense ML Workloads </td>
-<td>Yuchen Mei</td>
+<td>Algorithm–Hardware Co-Design of Formatbook-Based Block-Wise Number Formats for Generative Text and Video</td>
+<td>Wonsuk Jang</td>
 <td>PhD Student</td>
 </tr>
 
 <tr>
 <td>2:05-2:30pm</td>
-<td>Algorithm–Hardware Co-Design of Formatbook-Based Block-Wise Number Formats for Generative Text and Video </td>
-<td>Wonsuk Jang</td>
+<td>Agate: A Design Space Exploration System for Heterogeneous CGRAs Accelerating Dense ML Workloads</td>
+<td>Yuchen Mei</td>
 <td>PhD Student</td>
 </tr>
 
