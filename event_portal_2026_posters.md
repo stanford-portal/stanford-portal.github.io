@@ -128,7 +128,7 @@ title: events
 
 <tr>
 <td>21</td>
-<td>Name #3</td>
+<td>Elizaveta Pertseva</td>
 <td>Automated Geometric Predicate Synthesis</td>
 </tr>
 
