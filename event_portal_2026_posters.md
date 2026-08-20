@@ -12,114 +12,127 @@ title: events
 <td style="width:45%;">The Right Kernel Every Time: Adaptive Sparse Compilation for Deep Learning </td>
 </tr>
 
-
+<tr>
 <td>2</td>
 <td>Rubens Lacouture</td>
 <td>Programming Systems for Sparse Machine Learning on Modern Hardware</td>
 </tr>
 
-
+<tr>
 <td>3</td>
 <td>Alexander Root</td>
 <td>Compiling Portable and Performant Spatial Queries with Data and Schedule Independence</td>
 </tr>
 
-
+<tr>
 <td>4</td>
 <td> Sai Gautham Ravipati</td>
 <td>Portable Dynamic Tiling for Sparse Tensor Applications </td>
 </tr>
 
-
+<tr>
 <td>5</td>
 <td>Atharva Chougule</td>
 <td>Partitioning Unstructured Sparse Tensor Algebra for Load-Balanced Parallel Execution</td>
 </tr>
 
-
+<tr>
 <td>6</td>
 <td>Usman Tariq</td>
 <td>Fusion and Tiling for Computation Graphs</td>
 </tr>
 
-
+<tr>
 <td>7</td>
 <td>Shiv Sundram</td>
 <td>Cyclotron: Specifying Dataflow in Distributed Architectures</td>
 </tr>
 
-
+<tr>
 <td>8</td>
 <td>Chris Gyurgyik</td>
 <td>Data Layout Optimizations via Rewrite Rules</td>
 </tr>
 
-
+<tr>
 <td>9</td>
 <td>Anderson Truong</td>
 <td>Flexible analytical performance modeling for deep learning on hierarchical, heterogeneous hardware</td>
 </tr>
 
+<tr>
 <td>10</td>
 <td>Yasmine Omri</td>
 <td>Agent Memory: System Implications and Co-design for Multi-Tenant Long-Horizon Workloads</td>
 </tr>
 
+<tr>
 <td>11</td>
 <td>Name #3</td>
 <td>Poster title #2</td>
 </tr>
 
+<tr>
 <td>12</td>
 <td>Name #3</td>
 <td>Poster title #2</td>
 </tr>
 
+<tr>
 <td>13</td>
 <td>Name #3</td>
 <td>Poster title #2</td>
 </tr>
 
+<tr>
 <td>14</td>
 <td>Name #3</td>
 <td>Poster title #2</td>
 </tr>
 
+<tr>
 <td>15</td>
 <td>Name #3</td>
 <td>Poster title #2</td>
 </tr>
 
+<tr>
 <td>16</td>
 <td>Name #3</td>
 <td>Poster title #2</td>
 </tr>
 
+<tr>
 <td>17</td>
 <td>Name #3</td>
 <td>Poster title #2</td>
 </tr>
 
+<tr>
 <td>18</td>
 <td>Name #3</td>
 <td>Poster title #2</td>
 </tr>
 
+<tr>
 <td>19</td>
 <td>Name #3</td>
 <td>Poster title #2</td>
 </tr>
 
+<tr>
 <td>20</td>
 <td>Name #3</td>
 <td>Poster title #2</td>
 </tr>
 
+<tr>
 <td>21</td>
 <td>Name #3</td>
 <td>Poster title #2</td>
 </tr>
 
+<tr>
 <td>22</td>
 <td>Name #3</td>
 <td>Poster title #2</td>
