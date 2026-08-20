@@ -321,7 +321,7 @@ Thursday, August 20- Friday, August 21, 2026
 
 <tr>
 <td>21</td>
-<td>Name #3</td>
+<td>Elizaveta Pertseva</td>
 <td>Automated Geometric Predicate Synthesis</td>
 </tr>
 
