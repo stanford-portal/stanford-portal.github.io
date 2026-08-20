@@ -1,4 +1,4 @@
----
+<img width="162" height="39" alt="image" src="https://github.com/user-attachments/assets/6d133537-3454-4b20-ae31-cfb0c99ebf33" />---
 layout: default
 title: events
 ---
@@ -68,74 +68,74 @@ title: events
 
 <tr>
 <td>11</td>
-<td>Name #3</td>
-<td>Poster title #2</td>
+<td>Michael Oduoza</td>
+<td>HW/SW Co-design for SSMs at the Edge </td>
 </tr>
 
 <tr>
 <td>12</td>
-<td>Name #3</td>
-<td>Poster title #2</td>
+<td>Allen Pan</td>
+<td>Extending Voyager for Digital Compute-in-Memory-Based Accelerator Generation and Compilation</td>
 </tr>
 
 <tr>
 <td>13</td>
-<td>Name #3</td>
-<td>Poster title #2</td>
+<td>Bo Wun Cheng </td>
+<td>Interplay of Activation Quantization and Sparsification for LLM Compression</td>
 </tr>
 
 <tr>
 <td>14</td>
-<td>Name #3</td>
-<td>Poster title #2</td>
+<td>Wonsuk Jang</td>
+<td>SemanticDialect: Semantic-Aware Mixed-Format Quantization for Video Diffusion Transformers</td>
 </tr>
 
 <tr>
 <td>15</td>
-<td>Name #3</td>
-<td>Poster title #2</td>
+<td>Jeffrey Yu</td>
+<td>Sphinx: An Edge-LLM Accelerator with Outlier-Aware W4A4 Microscaling and Fused 2b KV-Cache Decoding</td>
 </tr>
 
 <tr>
 <td>16</td>
-<td>Name #3</td>
-<td>Poster title #2</td>
+<td>Christian Kubicka</td>
+<td>uVLA: Multi-Chiplet 16nm SoP with HMoP for Physical AI</td>
 </tr>
 
 <tr>
 <td>17</td>
-<td>Name #3</td>
-<td>Poster title #2</td>
+<td>Yuchen Mei</td>
+<td>Agate: A Design Space Exploration System for Heterogeneous CGRAs Accelerating Dense ML Workloads</td>
 </tr>
 
 <tr>
 <td>18</td>
-<td>Name #3</td>
-<td>Poster title #2</td>
+<td>Po-Han Chen</td>
+<td>SPEC: A Scalable and Physical-Design-Friendly Architecture for CGRAs</td>
 </tr>
 
 <tr>
 <td>19</td>
-<td>Name #3</td>
-<td>Poster title #2</td>
+<td>Áron Ricardo Perez-Lopez</td>
+<td>Pono 2.0: A Versatile SMT-Based Model Checker for Safety and Liveness</td>
 </tr>
 
 <tr>
 <td>20</td>
-<td>Name #3</td>
-<td>Poster title #2</td>
+<td>Zhouhua Xie</td>
+<td>Provably Correct Low-Precision Approximations of Nonlinear Functions for AI Hardware</td>
 </tr>
 
 <tr>
 <td>21</td>
 <td>Name #3</td>
-<td>Poster title #2</td>
+<td>Automated Geometric Predicate Synthesis</td>
 </tr>
 
 <tr>
 <td>22</td>
-<td>Name #3</td>
-<td>Poster title #2</td>
+<td>Ritvik Sharma</td>
+<td>CoTenN: Constrained Optimization with Tensor Networks</td>
 </tr>
 
 
