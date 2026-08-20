@@ -61,7 +61,7 @@ title: events
 </tr>
 
 <td>10</td>
-<td>Yasmine Omri/td>
+<td>Yasmine Omri</td>
 <td>Agent Memory: System Implications and Co-design for Multi-Tenant Long-Horizon Workloads</td>
 </tr>
 
