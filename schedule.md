@@ -7,6 +7,14 @@ The Portal Center hosts a monthly seminar open to industry affiliates and sponso
 
 In the schedule below, external affiliate and sponsor talks are highlighted in bold, while internal talks are presented in regular text.
 
+# Fall 2026
+
+| Date | Topic | Speaker |
+| ---- | ----- | ------- |
+| October 7| **Affiliates Seminar TBA** |  |
+| September 30 | Internal Meeting |  |
+| September 23 | Planning Meeting |  |
+
 # Summer 2026
 
 | Date | Topic | Speaker |
