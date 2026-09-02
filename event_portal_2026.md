@@ -3,7 +3,7 @@ layout: default
 title: events
 ---
 
-<h1>Portal Annual Retreat 2026</h1>
+<h1>PORTAL Annual Retreat 2026</h1>
 <a href="https://oceanohalfmoonbay.com/">Oceano Hotel, Half Moon Bay</a> <br/>
 Thursday, August 20- Friday, August 21, 2026
 
@@ -99,7 +99,7 @@ Thursday, August 20- Friday, August 21, 2026
 <tr>
 <td>10:30-11:30am</td>
 <td><b>Keynote: Computer Architecture in the Age of Agentic AI</b></td>
-<td>Billy Dally</td>
+<td>Bill Dally</td>
 <td>Chief Scientist and Senior Vice   President of Research, NVIDIA</td>
 </tr>
 
