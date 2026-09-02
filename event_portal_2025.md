@@ -3,7 +3,7 @@ layout: default
 title: events
 ---
 
-<h1>Portal Annual Retreat 2025</h1>
+<h1>PORTAL Annual Retreat 2025</h1>
 <a href="https://oceanohalfmoonbay.com/">Oceano Hotel, Half Moon Bay</a> <br/>
 Wednesday, August 27- Thursday, August 28, 2025
 
