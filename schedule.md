@@ -13,7 +13,7 @@ In the schedule below, external affiliate and sponsor talks are highlighted in b
 | ---- | ----- | ------- |
 | October 7| **Affiliates Seminar TBA** |  |
 | September 30 | Internal Meeting |  |
-| September 23 | Planning Meeting |  |
+| September 23 | Fall Planning |  |
 
 # Summer 2026
 
