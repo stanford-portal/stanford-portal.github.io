@@ -12,7 +12,7 @@ In the schedule below, external affiliate and sponsor talks are highlighted in b
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
 | **October 7**| **Affiliates Seminar TBA** | **Bo Wun Cheng**  |
-| September 30 | TBA | Rubens Lacouture |
+| September 30 | Programming Systems for Sparse ML on Modern Hardware | Rubens Lacouture |
 | September 23 | Fall Planning |  |
 
 # Summer 2026
