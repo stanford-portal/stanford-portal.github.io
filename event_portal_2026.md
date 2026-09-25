@@ -84,7 +84,7 @@ Thursday, August 20- Friday, August 21, 2026
 
 <tr>
 <td>9:30-10:00am</td>
-<td>Partitioning Unstructured Sparse Tensor Algebra for Load-Balanced Parallel Execution</td>
+<td><a href="https://drive.google.com/file/d/1DiIie47vfnQEu5FAgrQCpiZ_8IepXmCf/view?usp=drive_link"> Partitioning Unstructured Sparse Tensor Algebra for Load-Balanced Parallel Execution</a></td>
 <td>Atharva Chougule</td>
 <td>MS Student</td>
 </tr>
