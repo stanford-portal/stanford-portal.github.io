@@ -70,7 +70,7 @@ Thursday, August 20- Friday, August 21, 2026
 
 <tr>
 <td>8:30-9:00am</td>
-<td>Relational Algebra Compilation </td>
+<td><a href="https://drive.google.com/file/d/1wSiy4TVoDBJeXxaoHs6qEgVCJQMohu9d/view?usp=drive_link">Relational Algebra Compilation</a></td>
 <td>Fred Kjolstad</td>
 <td>Faculty</td>
 </tr>
