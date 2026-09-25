@@ -20,7 +20,7 @@ Thursday, August 20- Friday, August 21, 2026
 
 <tr>
 <td>4:00-4:15pm</td>
-<td> Welcome - Introduction</td>
+<td> <a href="https://drive.google.com/file/d/1AMAUnPQMLAFaf3o0mZKetG8Mk9Gd6wUE/view?usp=drive_link">Welcome - Introduction</a></td>
 <td>Mark Horowitz</td>
 <td>Faculty</td>
 </tr>
