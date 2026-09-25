@@ -174,7 +174,7 @@ Thursday, August 20- Friday, August 21, 2026
 
 <tr>
 <td>3:50-4:15pm</td>
-<td>Cyclotron: Recurrence Language for Interprocessor Communication </td>
+<td><a href="https://drive.google.com/file/d/1oS41elG_OtM3yzWV3P5MFCLWvGozWM1L/view?usp=sharing">Cyclotron: Recurrence Language for Interprocessor Communication</a> </td>
 <td>Shiv Sundram</td>
 <td>PhD Student</td>
 </tr>
