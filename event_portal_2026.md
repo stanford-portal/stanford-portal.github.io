@@ -34,7 +34,7 @@ Thursday, August 20- Friday, August 21, 2026
 
 <tr>
 <td>4:30-5:00pm</td>
-<td>Lightning Talks</td>
+<td><a href="https://drive.google.com/file/d/1HyetXbNSoHyfgLsJiHnnPxTHFYfIF0nA/view?usp=drive_link">Lightning Talks</a></td>
 <td>Portal Researchers and Students</td>
 <td></td>
 </tr>
