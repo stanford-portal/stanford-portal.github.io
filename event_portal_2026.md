@@ -188,7 +188,7 @@ Thursday, August 20- Friday, August 21, 2026
 
 <tr>
 <td>4:45-5:00pm</td>
-<td>Wrap up and closing thoughts</td>
+<td><a href="https://drive.google.com/file/d/1RU-y48b2CokRYl2zgz6hax2PmWN4qHu0/view?usp=sharing"> Wrap up and Closing Thoughts</a></td>
 <td>Mark Horowitz</td>
 <td>Faculty</td>
 </tr>
