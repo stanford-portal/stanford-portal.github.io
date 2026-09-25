@@ -27,7 +27,7 @@ Thursday, August 20- Friday, August 21, 2026
 
 <tr>
 <td>4:15-4:30pm</td>
-<td>Research Overview</td>
+<td><a href="https://drive.google.com/file/d/1ynzOOUAS6uAVr_UwjWkToXa9bU_0SlFr/view?usp=drive_link"> Research Overview</a></td>
 <td>Fred Kjolstad</td>
 <td>Faculty</td>
 </tr>
