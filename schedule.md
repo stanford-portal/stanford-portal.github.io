@@ -12,8 +12,8 @@ In the schedule below, external affiliate and sponsor talks are highlighted in b
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
 | November 18 | TBA | Steven Herbst (OpenAI) |
-| October 14 | Self-Improving LLM Agents for Programming AI Accelerators | Genghan Zhang |
-| **October 7**| **TBA** | **Bo Wun Cheng**  |
+| October 14 |  TBA |  |
+| **October 7**| **Self-Improving LLM Agents for Programming AI Accelerators** | **Genghan Zhang**  |
 | September 30 | Programming Systems for Sparse ML on Modern Hardware | Rubens Lacouture |
 | September 23 | Fall Planning |  |
 
