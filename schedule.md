@@ -11,28 +11,28 @@ In the schedule below, external affiliate and sponsor talks are highlighted in b
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
-| December 9 |  AJ Root | Fast and Memory-Efficient Datalog on the GPU |
-| December 2 |  TBA |  |
-| November 25 |  TBA |  |
-| November 18 | The Jalapeño Kitchen | Steven Herbst (OpenAI) |
-| November 11 |  TBA |  |
-| **November 4** |  **TBA** |  |
-| October 28 |  TBA |  |
-| October 21 |  TBA |  |
-| October 14 |  AI, PL, and Compilers | Fredrik Kjolstad |
-| **October 7**| **Self-Improving LLM Agents for Programming AI Accelerators** | **Genghan Zhang**  |
-| September 30 | Programming Systems for Sparse ML on Modern Hardware | Rubens Lacouture |
-| September 23 | Fall Planning |  |
+| December&nbsp;9 |  AJ Root | Fast and Memory-Efficient Datalog on the GPU |
+| December&nbsp;2 |  TBA |  |
+| November&nbsp;25 |  TBA |  |
+| November&nbsp;18 | The Jalapeño Kitchen | Steven Herbst (OpenAI) |
+| November&nbsp;11 |  TBA |  |
+| **November&nbsp;4** |  **TBA** |  |
+| October&nbsp;28 |  TBA |  |
+| October&nbsp;21 |  TBA |  |
+| October&nbsp;14 |  AI, PL, and Compilers | Fredrik Kjolstad |
+| **October&nbsp;7**| **Self-Improving LLM Agents for Programming AI Accelerators** | **Genghan Zhang**  |
+| September&nbsp;30 | Programming Systems for Sparse ML on Modern Hardware | Rubens Lacouture |
+| September&nbsp;23 | Fall Planning |  |
 
 # Summer 2026
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
-| August 19| No meeting (Portal Annual Retreat on August 20-21) |  |
-| August 5 | Internal Meeting (no Zoom) | |
-| July 22 | Building Accelerator Software in the Age of Agents | Charles Hong (UC Berkeley) |
-| **July 8** | **µVLA: Designing a Multi-Chiplet 16nm SoP with Heterogeneous Memory on Package (HMoP) to Enable Real-Time Physical AI on the Edge** | **Christian Kubicka** |
-| June 24 | Internal Meeting (CANCELED) |  |
+| August&nbsp;19| No meeting (Portal Annual Retreat on August 20-21) |  |
+| August&nbsp;5 | Internal Meeting (no Zoom) | |
+| July&nbsp;22 | Building Accelerator Software in the Age of Agents | Charles Hong (UC Berkeley) |
+| **July&nbsp;8** | **µVLA: Designing a Multi-Chiplet 16nm SoP with Heterogeneous Memory on Package (HMoP) to Enable Real-Time Physical AI on the Edge** | **Christian Kubicka** |
+| June&nbsp;24 | Internal Meeting (CANCELED) |  |
 
 
 # Spring 2026
