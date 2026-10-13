@@ -11,8 +11,15 @@ In the schedule below, external affiliate and sponsor talks are highlighted in b
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
+| December 9 |  AJ Root | TBA |
+| December 2 |  TBA |  |
+| November 25 |  TBA |  |
 | November 18 | The Jalapeño Kitchen | Steven Herbst (OpenAI) |
-| October 14 |  TBA |  |
+| November 11 |  TBA |  |
+| **November 4** |  **TBA** |  |
+| October 28 |  TBA |  |
+| October 21 |  TBA |  |
+| October 14 |  AI, PL, and Compilers | Fredrik Kjolstad |
 | **October 7**| **Self-Improving LLM Agents for Programming AI Accelerators** | **Genghan Zhang**  |
 | September 30 | Programming Systems for Sparse ML on Modern Hardware | Rubens Lacouture |
 | September 23 | Fall Planning |  |
