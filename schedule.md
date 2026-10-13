@@ -16,7 +16,7 @@ In the schedule below, external affiliate and sponsor talks are highlighted in b
 | November&nbsp;25 |  TBA |  |
 | November&nbsp;18 | The Jalapeño Kitchen | Steven Herbst (OpenAI) |
 | November&nbsp;11 |  TBA |  |
-| **November&nbsp;4** |  **TBA** |  |
+| **November&nbsp;4** |  **Analog Hardware for AI** | Sara Achour |
 | October&nbsp;28 |  TBA |  |
 | October&nbsp;21 |  TBA |  |
 | October&nbsp;14 |  AI, PL, and Compilers | Fredrik Kjolstad |
