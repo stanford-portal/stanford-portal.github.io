@@ -11,7 +11,7 @@ In the schedule below, external affiliate and sponsor talks are highlighted in b
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
-| December&nbsp;9 |  AJ Root | Fast and Memory-Efficient Datalog on the GPU |
+| December&nbsp;9 | Fast and Memory-Efficient Datalog on the GPU | AJ Root |
 | December&nbsp;2 |  TBA |  |
 | November&nbsp;25 |  TBA |  |
 | November&nbsp;18 | The Jalapeño Kitchen | Steven Herbst (OpenAI) |
