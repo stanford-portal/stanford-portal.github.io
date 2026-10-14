@@ -76,7 +76,10 @@
 
 # PhD students
 
-
+- name: Juneseo Chang
+  position: phd
+  img: juneseochang.jpg
+  website: https://jschang0215.github.io/
 
 - name: James Dong
   position: phd
