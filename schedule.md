@@ -17,10 +17,10 @@ In the schedule below, external affiliate and sponsor talks are highlighted in b
 | **December&nbsp;2** |  **REGAIN: Retention-Aware Algorithm–Hardware Co-Design for Gain-Cell RAM-Based Video Diffusion Transformer Acceleration** | **Wonsuk Jang**  |
 | November&nbsp;25 |  Thanksgiving break (no meeting) |  |
 | November&nbsp;18 | The Jalapeño Kitchen | Steven Herbst (OpenAI) |
-| November&nbsp;11 |  TBA |  |
+| November&nbsp;11 |  TBA | Charith Mendis (UIUC) |
 | **November&nbsp;4** |  **Analog Hardware for AI** | Sara Achour |
 | October&nbsp;28 |  BEHAVE: Functional Behavior Modeling Enables Self-Improving Agents for Hardware Design and Verification | Yuheng Wu |
-| October&nbsp;21 |  TBA |  |
+| October&nbsp;21 |  No meeting |  |
 | October&nbsp;14 |  AI, PL, and Compilers | Fredrik Kjolstad |
 | **October&nbsp;7**| **Self-Improving LLM Agents for Programming AI Accelerators** | **Genghan Zhang**  |
 | September&nbsp;30 | Programming Systems for Sparse ML on Modern Hardware | Rubens Lacouture |
