@@ -11,6 +11,8 @@ In the schedule below, external affiliate and sponsor talks are highlighted in b
 
 | Date | Topic | Speaker |
 | ---- | ----- | ------- |
+| Dec. 21-Jan. 1 | Winter break (no seminars) |  |
+| December&nbsp;16 | End of quarter (no seminar) | |
 | December&nbsp;9 | Fast and Memory-Efficient Datalog on the GPU | AJ Root |
 | **December&nbsp;2** |  **REGAIN: Retention-Aware Algorithm–Hardware Co-Design for Gain-Cell RAM-Based Video Diffusion Transformer Acceleration** | **Wonsuk Jang**  |
 | November&nbsp;25 |  Thanksgiving break (no meeting) |  |
